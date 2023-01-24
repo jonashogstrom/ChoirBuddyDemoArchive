@@ -10,6 +10,14 @@ name: Update music files
 # vars.FTP_HOST 
 # vars.FTP_USER 
 # vars.FTP_TARGETDIR 
+#
+# Access rights for the PAT:
+# ==========================
+# Repo: jonashogstrom/ChoirBuddyTools
+# Permissions: Read access to code and metadata
+#
+# Note: FTP passwords should be complex, but the upload tool seems to 
+# have issues with some odd characters, so stick with 0-9, a-z and A-Z
 
 on:
   push:

@@ -90,11 +90,11 @@ jobs:
     - name: Upload all files to server
       uses: kevinpainchaud/simple-ftp-deploy-action@v1.2.1
       with:
-        ftp_host: ${{ variables.FTP_HOST }}
-        ftp_username: ${{ variables.FTP_USER }}
+        ftp_host: ${{ vars.FTP_HOST }}
+        ftp_username: ${{ vars.FTP_USER }}
         ftp_password: ${{ secrets.FTP_PASSWORD }}
         local_source_dir: "stage"
-        dist_target_dir: ${{ variables.FTP_TARGETDIR }}
+        dist_target_dir: ${{ vars.FTP_TARGETDIR }}
         delete: "false"
 
     - name: Update the watermark tag

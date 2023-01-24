@@ -1,5 +1,15 @@
 name: Update music files
 
+# expected secrets: 
+# =================
+# secrets.CB_RELEASE_PAT
+# secrets.FTP_PASSWORD
+#
+# expected variables:
+# ===================
+# vars.FTP_HOST 
+# vars.FTP_USER 
+# vars.FTP_TARGETDIR 
 on:
   push:
     branches: [ main ]
@@ -25,7 +35,7 @@ jobs:
         version: 'tags/r0.1.1.49_3'
         file: 'nwc2mid_release.zip'
         target: 'temp/dl/nwc2mid.zip'
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.CB_RELEASE_PAT }}
     
     - name: Extract tools
       run: 7z x temp/dl/nwc2mid.zip -otemp/tools/
@@ -70,7 +80,7 @@ jobs:
         version: 'tags/r0.1.1.49_3'
         file: 'mid2mp3.zip'
         target: '${{runner.temp}}/dl/mid2mp3.zip'
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.CB_RELEASE_PAT }}
 
     - name: Extract tools
       run: 7z x ${{runner.temp}}/dl/mid2mp3.zip -o${{runner.temp}}/tools

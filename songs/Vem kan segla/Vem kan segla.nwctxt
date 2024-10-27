@@ -1,5 +1,5 @@
 !NoteWorthyComposer(2.751)
-|Editor|ActiveStaff:4|CaretIndex:70|CaretPos:-99
+|Editor|ActiveStaff:4|CaretIndex:1|CaretPos:0
 |SongInfo|Title:"Vem kan seglax"|Author:"<Name>"|Lyricist:""|Copyright1:"Copyright © 2019 <Name>"|Copyright2:"All Rights Reserved"
 |PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:Y|PageNumbers:0|StaffLabels:None|BarNumbers:None|StartingBar:1
 |Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:10|Bold:Y|Italic:Y|CharSet:0
@@ -20,7 +20,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"Vem_ kan_ se_-gla_ för_-u_-tan_ vind_ Vem_ kan_ ro_ u_-tan_ å_-ror_ Vem_ kan_ ski_-ljas_ från_ vän_-nen_ sin_ u_-tan_ att_ fä_-lla_ tå_-rar_ Jag_ kan_ se_-gla_ för_ u_-tan_ vind_ Jag_ kan_ ro_ u_-tan_ å_-ror_ Men_ ej_ ski_-ljas_ från_ vän_-nen_ min_ u_-tan_ att_ fä_-lla_ tå_-rar\n"
+|Lyric1|Text:"Vem kan se-gla för-u-tan vind?\nVem kan ro u-tan å-ror?\nVem kan ski-ljas från vän-nen sin u-tan att fä-lla tå-rar?\nJag kan se-gla för u-tan vind,\nJag kan ro u-tan å-ror,\nMen ej ski-ljas från vän-nen min\nu-tan att fä-lla tå-rar.\n"
 |Clef|Type:Treble
 |Tempo|Tempo:60|Pos:12.5
 |Key|Signature:F#|Tonic:G
@@ -80,7 +80,7 @@
 |Bar|SysBreak:Y
 |Note|Dur:8th,Dotted|Pos:-1|Opts:Stem=Up,Beam=First
 |Note|Dur:16th|Pos:-1|Opts:Stem=Up,Beam=End
-|Dynamic|Style:mp|Pos:-8
+|Dynamic|Style:mp|Pos:8
 |Note|Dur:8th|Pos:1|Opts:Stem=Down,Beam=First
 |Note|Dur:16th|Pos:0|Opts:Stem=Down,Beam
 |Note|Dur:16th|Pos:-1|Opts:Stem=Down,Beam=End
@@ -100,7 +100,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"Vem_ kan_ se_-gla_ för_-u_-tan_ vind_ Vem_ kan_ ro_ u_-tan_ å_-ror_ Vem_ kan_ ski_-ljas_ från_ vän_-nen_ sin_ u_-tan_ att_ fä_-lla_ rar_ Jag_ kan_ ro_ u_-tan_ å_-ror_ Men_ ej_ ski_-ljas_ från_ vän_-nen_ min_ u_-tan_ att_ fä_-lla_ tå_-rar\n"
+|Lyric1|Text:"Vem kan se-gla för-u-tan vind?\nVem kan ro u-tan å-ror?\nVem kan ski-ljas från vän-nen sin\nu-tan att fä-lla rar?\nJag kan ro u-tan å-ror,\nMen ej ski-ljas från vän-nen min\nu-tan att fä-lla tå-rar.\n"
 |Clef|Type:Treble
 |Key|Signature:F#|Tonic:G
 |TimeSig|Signature:4/4
@@ -161,7 +161,7 @@
 |Bar|SysBreak:Y
 |Note|Dur:8th,Dotted|Pos:-4|Opts:Stem=Up,Beam=First
 |Note|Dur:16th|Pos:-4|Opts:Stem=Up,Beam=End
-|Dynamic|Style:mp|Pos:-8
+|Dynamic|Style:mp|Pos:9.5
 |Note|Dur:8th|Pos:-1|Opts:Stem=Up,Beam=First
 |Note|Dur:16th|Pos:-2|Opts:Stem=Up,Beam
 |Note|Dur:16th|Pos:-3|Opts:Stem=Up,Beam=End
@@ -183,7 +183,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"Vem_ kan_ se_-gla_ för_-u_-tan_ vind_ Vem_ kan_ ro_ u_-tan_ å_-ror_ Vem_ kan_ ski_-ljas_ från_ vän_-nen_ sin_ u_-tan_ att_ fä_-lla_ tå_-rar_ Jag_ kan_ ro_ u_-tan_ å_-ror_ Men_ ej_ ski_-ljas_ från_ vän_-nen_ min_ u_-tan_ att_ fä_-lla_ tå_-rar\n"
+|Lyric1|Text:"Vem kan se-gla för-u-tan vind?\nVem kan ro u-tan å-ror?\nVem kan ski-ljas från vän-nen sin\nu-tan att fä-lla tå-rar?\n\nJag kan ro u-tan å-ror,\nMen ej ski-ljas från vän-nen min\nu-tan att fä-lla tå-rar.\n"
 |Clef|Type:Treble|OctaveShift:Octave Down
 |Key|Signature:F#|Tonic:G
 |TimeSig|Signature:4/4
@@ -210,7 +210,7 @@
 |Note|Dur:4th|Pos:-2|Opts:Stem=Up
 |Bar|SysBreak:Y
 |Note|Dur:8th,Slur|Pos:-2|Opts:Stem=Up,Beam=First
-|Note|Dur:16th|Pos:-3|Opts:Stem=Up,Beam
+|Note|Dur:16th|Pos:-3|Opts:Stem=Up,Lyric=Always,Beam
 |Note|Dur:16th|Pos:-4|Opts:Stem=Up,Lyric=Never,Beam=End
 |Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=First
 |Note|Dur:16th|Pos:-3|Opts:Stem=Up,Beam
@@ -248,7 +248,7 @@
 |Bar|SysBreak:Y
 |Note|Dur:8th,Dotted|Pos:1|Opts:Stem=Down,Beam=First
 |Note|Dur:16th|Pos:1|Opts:Stem=Down,Beam=End
-|Dynamic|Style:mp|Pos:-8
+|Dynamic|Style:mp|Pos:8
 |Note|Dur:8th|Pos:3|Opts:Stem=Down,Beam=First
 |Note|Dur:16th|Pos:2|Opts:Stem=Down,Beam
 |Note|Dur:16th|Pos:1|Opts:Stem=Down,Beam=End
@@ -271,7 +271,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"Ah_ Vem_ kan_ ro_ u_-tan_ å_-ror_ Vem_ kan_ ski_-ljas_ från_ vän_-nen_ sin_ u_-tan_ att_ fä_-lla_ tå_-rar_ Jag_ kan_ seg_-la_ för_ u_-tan_ vind_ Jag_ kan_ ro_ u_-tan_ å_-ror_ Men_ ej_ ski_-ljas_ från_ vän_-nen_ min_ u_-tan_ att_ fä_-lla_ tå_-rar\n"
+|Lyric1|Text:"Ah\nVem kan ro u-tan å-ror?\nVem kan ski-ljas från vän-nen sin\nu-tan att fä-lla tå-rar?\n\nJag kan seg-la för u-tan vind,\nJag kan ro u-tan å-ror,\nMen ej ski-ljas från vän-nen min,\nu-tan att fä-lla tå-rar.\n"
 |Clef|Type:Bass
 |Key|Signature:F#|Tonic:G
 |TimeSig|Signature:4/4
@@ -329,7 +329,7 @@
 |Bar|SysBreak:Y
 |Note|Dur:8th,Dotted|Pos:-1|Opts:Stem=Up,Beam=First
 |Note|Dur:16th|Pos:-2|Opts:Stem=Up,Beam=End
-|Dynamic|Style:mp|Pos:-8
+|Dynamic|Style:mp|Pos:7.5
 |Note|Dur:8th|Pos:-3|Opts:Stem=Up,Beam=First
 |Note|Dur:16th|Pos:-3|Opts:Stem=Up,Beam
 |Note|Dur:16th|Pos:-3|Opts:Stem=Up,Beam=End

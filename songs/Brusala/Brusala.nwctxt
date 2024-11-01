@@ -1,6 +1,5 @@
-!NoteWorthyComposer(2.5)
-|Locale|ACP:1252
-|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:9
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:4|CaretIndex:6|CaretPos:0
 |SongInfo|Title:"Brusala23"|Author:""|Lyricist:""|Copyright1:""|Copyright2:""
 |PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:Y|PageNumbers:0|StaffLabels:None|BarNumbers:Plain|StartingBar:1|AllowLayering:N
 |Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:10|Bold:Y|Italic:Y|CharSet:0
@@ -21,7 +20,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"Bru-sa-la-ljus, du är flo-den med ström och brus,\r\ndu är flo-den med ström och brus,\r\ndu är mor-gon på vi-da slät-ter som ja-gar med lö-sa tyg-lar,\r\ndu är mor-gon som ja-gar på vi-da slät-ter.\r\nDu är kväl-len som må-lar med den si-sta av si-na strå-lar\r\nden stol-ta-ste-pop-pel-spi-ran och krö-nen av hö-ga hus.\r\nBru-sa-la-natt, du är tärn-nan som va-ken satt\r\noch för-so-ver sig ljuvt och län-ge un-der trä-den kring lå-ga flyg-lar.\r\nDu är dröm-men som äls-kar drö-ja un-der pi-lar-nas mju-ka slöj-a\r\noch gå kring på de göm-da gång-ar där da-gern är mild och matt.\r\nBru----sa-la-vår, du är en svan-klang som plöts-ligt går\r\ni en snö-vind ö-ver he-den, där bäc-kar-na bör-ja ta-la.\r\nDu är vi-net som bris-ter ge-nom föns-ter-nas vi-ta lis-ter\r\noch gnyr som en ljud-lig gi-ga och för-går som en suck för-går.\r\nBru-sa-la-höst, du är ett slock-nan-de sken,\r\nen röst som fly bort ge-nom rum-men\r\nsom en kvälls-sky med en sva-la.\r\nDu är hjär-tat som grå-ter, som om al-drig det kom-me å-ter\r\ntill sitt näs-te und-der teg-len, un-der flöj-lan-de gul-la röst.\r\n"
+|Lyric1|Text:"Bru-sa-la-ljus, du Ã¤r flo-den med strÃ¶m och brus,\ndu Ã¤r flo-den med strÃ¶m och brus,\ndu Ã¤r mor-gon pÃ¥ vi-da slÃ¤t-ter som ja-gar med lÃ¶-sa tyg-lar,\ndu Ã¤r mor-gon som ja-gar pÃ¥ vi-da slÃ¤t-ter.\nDu Ã¤r kvÃ¤l-len som mÃ¥-lar med den si-sta av si-na strÃ¥-lar\nden stol-ta-ste-pop-pel-spi-ran och krÃ¶-nen av hÃ¶-ga hus.\nBru-sa-la-natt, du Ã¤r tÃ¤rn-nan som va-ken satt\noch fÃ¶r-so-ver sig ljuvt och lÃ¤n-ge un-der trÃ¤-den kring lÃ¥-ga flyg-lar.\nDu Ã¤r drÃ¶m-men som Ã¤ls-kar drÃ¶-ja un-der pi-lar-nas mju-ka slÃ¶j-a\noch gÃ¥ kring pÃ¥ de gÃ¶m-da gÃ¥ng-ar dÃ¤r da-gern Ã¤r mild och matt.\nBru----sa-la-vÃ¥r, du Ã¤r en svan-klang som plÃ¶ts-ligt gÃ¥r\ni en snÃ¶-vind Ã¶-ver he-den, dÃ¤r bÃ¤c-kar-na bÃ¶r-ja ta-la.\nDu Ã¤r vi-net som bris-ter ge-nom fÃ¶ns-ter-nas vi-ta lis-ter\noch gnyr som en ljud-lig gi-ga och fÃ¶r-gÃ¥r som en suck fÃ¶r-gÃ¥r.\nBru-sa-la-hÃ¶st, du Ã¤r ett slock-nan-de sken,\nen rÃ¶st som fly bort ge-nom rum-men\nsom en kvÃ¤lls-sky med en sva-la.\nDu Ã¤r hjÃ¤r-tat som grÃ¥-ter, som om al-drig det kom-me Ã¥-ter\ntill sitt nÃ¤s-te und-der teg-len, un-der flÃ¶j-lan-de gul-la rÃ¶st.\n"
 |Clef|Type:Treble
 |Key|Signature:Bb,Eb|Tonic:B
 |TimeSig|Signature:2/2
@@ -486,7 +485,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
 |StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:-4
-|Lyric1|Text:"Bru-sa-la-ljus, du är flo-den med ström och brus,\r\ndu är flo-den med ström och brus,\r\ndu är mor-gon på vi-da slät-ter som ja-gar med lö-sa tyg-lar,\r\ndu är mor-gon som ja-gar på vi-da slät-ter.\r\nDu är kväl-len som må-lar med den si-sta av si-na strå-lar\r\nden stol-ta-ste-pop-pel-spi-ran och krö-nen av hö-ga hus.\r\nBru-sa-la-natt, du är tärn-nan som va-ken satt\r\noch för-so-ver sig ljuvt och län-ge un-der trä-den kring lå-ga flyg-lar.\r\nDu är dröm-men som äls-kar drö-ja un-der pi-lar-nas mju-ka slöj-a\r\noch gå kring på de göm-da gång-ar där da-gern är mild och matt.\r\nBru----sa-la-vår, du är en svan-klang som plöts-ligt går\r\ni en snö-vind ö-ver he-den, där bäc-kar-na bör-ja ta-la.\r\nDu är vi-net som bri-ster i fön-ster-nas lis-ter,\r\nja vi-net som bris-ter i föns-ter-nas lis-ter,\r\nja vi-net som bris-ter i föns-ter-nas lis-ter,\r\nja vi-net som bris-ter i föns-tret\r\noch gnyr som en ljud-lig gi-ga och för-går som en suck för-går.\r\nBru-sa-la-höst, du är ett slock-nan-de sken,\r\nen röst som fly bort ge-nom rum-men\r\nsom en kvälls-sky med en sva-la.\r\nDu är hjär-tat som grå-ter, som om al-drig det kom-me å-ter\r\ntill sitt näs-te und-der teg-len, un-der flöj-lan-de gul-la röst.\r\n->Alt 2\r\n"
+|Lyric1|Text:"Bru-sa-la-ljus, du Ã¤r flo-den med strÃ¶m och brus,\ndu Ã¤r flo-den med strÃ¶m och brus,\ndu Ã¤r mor-gon pÃ¥ vi-da slÃ¤t-ter som ja-gar med lÃ¶-sa tyg-lar,\ndu Ã¤r mor-gon som ja-gar pÃ¥ vi-da slÃ¤t-ter.\nDu Ã¤r kvÃ¤l-len som mÃ¥-lar med den si-sta av si-na strÃ¥-lar\nden stol-ta-ste-pop-pel-spi-ran och krÃ¶-nen av hÃ¶-ga hus.\nBru-sa-la-natt, du Ã¤r tÃ¤rn-nan som va-ken satt\noch fÃ¶r-so-ver sig ljuvt och lÃ¤n-ge un-der trÃ¤-den kring lÃ¥-ga flyg-lar.\nDu Ã¤r drÃ¶m-men som Ã¤ls-kar drÃ¶-ja un-der pi-lar-nas mju-ka slÃ¶j-a\noch gÃ¥ kring pÃ¥ de gÃ¶m-da gÃ¥ng-ar dÃ¤r da-gern Ã¤r mild och matt.\nBru----sa-la-vÃ¥r, du Ã¤r en svan-klang som plÃ¶ts-ligt gÃ¥r\ni en snÃ¶-vind Ã¶-ver he-den, dÃ¤r bÃ¤c-kar-na bÃ¶r-ja ta-la.\nDu Ã¤r vi-net som bri-ster i fÃ¶n-ster-nas lis-ter,\nja vi-net som bris-ter i fÃ¶ns-ter-nas lis-ter,\nja vi-net som bris-ter i fÃ¶ns-ter-nas lis-ter,\nja vi-net som bris-ter i fÃ¶ns-tret\noch gnyr som en ljud-lig gi-ga och fÃ¶r-gÃ¥r som en suck fÃ¶r-gÃ¥r.\nBru-sa-la-hÃ¶st, du Ã¤r ett slock-nan-de sken,\nen rÃ¶st som fly bort ge-nom rum-men\nsom en kvÃ¤lls-sky med en sva-la.\nDu Ã¤r hjÃ¤r-tat som grÃ¥-ter, som om al-drig det kom-me Ã¥-ter\ntill sitt nÃ¤s-te und-der teg-len, un-der flÃ¶j-lan-de gul-la rÃ¶st.\n->Alt 2\n"
 |Clef|Type:Treble
 |Key|Signature:Bb,Eb|Tonic:B
 |TimeSig|Signature:2/2
@@ -1444,11 +1443,12 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:4
 |StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"Bru-sa-la-ljus, du är flo-den med ström och brus,\r\ndu är flo-den med brus, du är mor-gon på vi-da slät-ter\r\nsom ja-gar med lö-sa tyg-lar, du är mor-gon som ja-gar på vi-da slät-ter.\r\nDu är kväl-len som må-lar med den si-sta av si-na strå-lar\r\nden stol-ta-ste pop-pel-spi-ran och krö-nen av hö-ga hus.\r\n\r\nBru-sa-la-natt, bru-sa-la-natt, bru-sa-la-natt, bru-sa-la-natt.\r\nDu är dröm-men som äl-skar dröj-a und-er pi-lar-nas mju-ka slöj-a\r\noch gå kring på de göm-da gång-ar där da-gern är mild och matt.\r\n\r\nBru-sa-la-vår, du är en svan-klang som plöts-ligt går\r\ni en snö-vind ö-ver he-den, där bäc-kar-na bör-ja ta-la.\r\nDu är vi-net som bris-ter ge-nom föns-ter-nas vi-ta lis-ter\r\noch gnyr som en ljud-lig gi-ga och för-går som en suck för-går.\r\n\r\nBru-sa-la-höst, Du är hjär-tat som grå-ter,\r\nsom om al-drig det kom-me å-ter\r\ntill sitt näs-te un-der teg-len, un-der flöj-lan-de gu-la röst.\r\n->Tenor 2\r\n"
+|Lyric1|Text:"Bru-sa-la-ljus, du Ã¤r flo-den med strÃ¶m och brus,\ndu Ã¤r flo-den med brus, du Ã¤r mor-gon pÃ¥ vi-da slÃ¤t-ter\nsom ja-gar med lÃ¶-sa tyg-lar, du Ã¤r mor-gon som ja-gar pÃ¥ vi-da slÃ¤t-ter.\nDu Ã¤r kvÃ¤l-len som mÃ¥-lar med den si-sta av si-na strÃ¥-lar\nden stol-ta-ste pop-pel-spi-ran och krÃ¶-nen av hÃ¶-ga hus.\n\nBru-sa-la-natt, bru-sa-la-natt, bru-sa-la-natt, bru-sa-la-natt.\nDu Ã¤r drÃ¶m-men som Ã¤l-skar drÃ¶j-a und-er pi-lar-nas mju-ka slÃ¶j-a\noch gÃ¥ kring pÃ¥ de gÃ¶m-da gÃ¥ng-ar dÃ¤r da-gern Ã¤r mild och matt.\n\nBru-sa-la-vÃ¥r, du Ã¤r en svan-klang som plÃ¶ts-ligt gÃ¥r\ni en snÃ¶-vind Ã¶-ver he-den, dÃ¤r bÃ¤c-kar-na bÃ¶r-ja ta-la.\nDu Ã¤r vi-net som bris-ter ge-nom fÃ¶ns-ter-nas vi-ta lis-ter\noch gnyr som en ljud-lig gi-ga och fÃ¶r-gÃ¥r som en suck fÃ¶r-gÃ¥r.\n\nBru-sa-la-hÃ¶st, Du Ã¤r hjÃ¤r-tat som grÃ¥-ter,\nsom om al-drig det kom-me Ã¥-ter\ntill sitt nÃ¤s-te un-der teg-len, un-der flÃ¶j-lan-de gu-la rÃ¶st.\n->Tenor 2\n"
 |Clef|Type:Treble|OctaveShift:Octave Down
 |Key|Signature:Bb,Eb|Tonic:B
 |TimeSig|Signature:2/2
 |Note|Dur:Whole|Pos:#1
+|Bar
 |Note|Dur:Half|Pos:#1
 |Note|Dur:Half|Pos:1
 |Bar
@@ -2293,7 +2293,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:6
 |StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"Bru-sa-la-ljus, du är flo-den med ström och brus,\r\ndu är flo-den med brus,\r\ndu är mor-gon på vi-da slät-ter som ja-gar med lö-sa tyg-lar,\r\ndu är mor-gon som ja-gar på\r\nja-gar med lös-släpp-ta tyg-lar på vi-da slät-ter.\r\nDu är kväl-len som må-lar med den si-sta av si-na strå-lar\r\nden stol-ta-ste-pop-pel-spi-ran och krö-nen av hö-ga hus.\r\n\r\nBru-sa-la-natt, bru-sa-la natt, bru-sa-la natt, bru-sa-la natt, bru-sa-la natt,\r\nDu är dröm-men som äls-kar drö-ja un-der pi-lar-nas mju-ka slöj-a\r\noch gå kring på de göm-da gång-ar\r\ndär da-gern är så mild, så mild och matt.\r\n\r\nBru-sa-la-vår, du är en svan-klang som plöts-ligt går\r\ni en snö-vind ö-ver he-den, där bäc-kar-na bör-ja ta-la.\r\nDu är vi-net som bri-ster i fön-ster-nas lis-ter,\r\nja vi-net som bris-ter i föns-ter-nas lis-ter,\r\nja vi-net som bris-ter i föns-ter-nas lis-ter,\r\nja vi-net som bris-ter i föns-ter-nas lis-ter\r\noch gnyr som en ljud-lig gi-ga och för-går som en suck för-går.\r\n\r\nBru-sa-la-höst,\r\nDu är hjär-tat som grå-ter, som om al-drig det kom-me å-ter\r\ntill sitt näs-te und-der teg-len, un-der flöj-lan-de gul-la röst.\r\n->Bas 2\r\n"
+|Lyric1|Text:"Bru-sa-la-ljus, du Ã¤r flo-den med strÃ¶m och brus,\ndu Ã¤r flo-den med brus,\ndu Ã¤r mor-gon pÃ¥ vi-da slÃ¤t-ter som ja-gar med lÃ¶-sa tyg-lar,\ndu Ã¤r mor-gon som ja-gar pÃ¥\nja-gar med lÃ¶s-slÃ¤pp-ta tyg-lar pÃ¥ vi-da slÃ¤t-ter.\nDu Ã¤r kvÃ¤l-len som mÃ¥-lar med den si-sta av si-na strÃ¥-lar\nden stol-ta-ste-pop-pel-spi-ran och krÃ¶-nen av hÃ¶-ga hus.\n\nBru-sa-la-natt, bru-sa-la natt, bru-sa-la natt, bru-sa-la natt, bru-sa-la natt,\nDu Ã¤r drÃ¶m-men som Ã¤ls-kar drÃ¶-ja un-der pi-lar-nas mju-ka slÃ¶j-a\noch gÃ¥ kring pÃ¥ de gÃ¶m-da gÃ¥ng-ar\ndÃ¤r da-gern Ã¤r sÃ¥ mild, sÃ¥ mild och matt.\n\nBru-sa-la-vÃ¥r, du Ã¤r en svan-klang som plÃ¶ts-ligt gÃ¥r\ni en snÃ¶-vind Ã¶-ver he-den, dÃ¤r bÃ¤c-kar-na bÃ¶r-ja ta-la.\nDu Ã¤r vi-net som bri-ster i fÃ¶n-ster-nas lis-ter,\nja vi-net som bris-ter i fÃ¶ns-ter-nas lis-ter,\nja vi-net som bris-ter i fÃ¶ns-ter-nas lis-ter,\nja vi-net som bris-ter i fÃ¶ns-ter-nas lis-ter\noch gnyr som en ljud-lig gi-ga och fÃ¶r-gÃ¥r som en suck fÃ¶r-gÃ¥r.\n\nBru-sa-la-hÃ¶st,\nDu Ã¤r hjÃ¤r-tat som grÃ¥-ter, som om al-drig det kom-me Ã¥-ter\ntill sitt nÃ¤s-te und-der teg-len, un-der flÃ¶j-lan-de gul-la rÃ¶st.\n->Bas 2\n"
 |Clef|Type:Bass
 |Key|Signature:Bb,Eb|Tonic:B
 |TimeSig|Signature:2/2
@@ -2752,7 +2752,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:7
 |StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"\r\n"
+|Lyric1|Text:"\n"
 |Clef|Type:Bass
 |Key|Signature:Bb,Eb|Tonic:B
 |TimeSig|Signature:2/2

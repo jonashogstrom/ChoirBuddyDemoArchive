@@ -1,0 +1,292 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:4|CaretIndex:16|CaretPos:0
+|SongInfo|Title:"Härlig är jorden"|Author:"<Name>"|Lyricist:""|Copyright1:"Copyright © 2019 <Name>"|Copyright2:"All Rights Reserved"
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:Y|PageNumbers:0|StaffLabels:None|BarNumbers:None|StartingBar:1
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:10|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:7.2|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:24|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:1.27|Top:1.27|Right:1.27|Bottom:1.27|Mirror:N
+|AddStaff|Name:"Sopran"|Label:"Sopran"|LabelAbbr:"S."|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:24|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
+|Lyric1|Text:"Här_-lig_ är_ jo_-or_-den._\nHär_-lig_ är_ Guds_ hi_-im_-mel._\nSkön_ ä_-är_ sjä_-ar_-nas_ pil_-grims_-gång._\nGe_-nom_ de_ fa_-a_-gra_ ri_-ken_ på_ jo_-or_-den_ gå_ vi_ till_ pa_-ra_-dis_ med_ sång\n"
+|Lyric2|Text:"Ti_-de_-varv_ ko_-om_-ma._\nTi_-de_-varv_ för_-svi_-in_-na._\nSläk_-te_-en_ föl_-ja_-a_ släk_-tens_ gång._\nAl_-drig_ för_ stu_-um_-mas_ to_-nen_ från_ hi_-im_-len_ i_ själ_-ens_ gla_-da_ pil_-grims_-sång.\n"
+|Lyric3|Text:"Äng_-lar_ dem_ sjö_-öng_-o_ först_ för_ mar_-kens_ he_-er_-dar._\nSkönt_ frå_-ån_ själ_ ti_-ill_ själ_ det_ ljöd:_ \'\'Män_-nis_-ka,_\nglä_-äd_ dig!_ Fräl_-sarn_ är_ ko_-om_-men,_\nfrid_ ö_-ver_ jor_-den_ Her_-ren_ bjöd.\"\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:Common
+|Dynamic|Style:p|Pos:-8
+|Note|Dur:Half|Pos:-4|Opts:Stem=Up
+|Note|Dur:4th|Pos:-4|Opts:Stem=Up
+|Note|Dur:4th|Pos:-4|Opts:Stem=Up
+|Bar
+|Note|Dur:4th,Slur|Pos:-3|Opts:Stem=Up
+|Note|Dur:4th|Pos:-5|Opts:Stem=Up
+|Note|Dur:Half|Pos:-4|Opts:Stem=Up
+|Bar
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Bar
+|Note|Dur:4th,Slur|Pos:-1|Opts:Stem=Up
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Note|Dur:Half|Pos:-2|Opts:Stem=Up
+|Bar
+|Note|Dur:Half|Pos:0|Opts:Stem=Down
+|Note|Dur:4th,Slur|Pos:3|Opts:Stem=Down
+|Note|Dur:4th|Pos:1|Opts:Stem=Down
+|Bar|SysBreak:Y
+|Note|Dur:Half|Pos:0|Opts:Stem=Down
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Bar
+|Note|Dur:Half|Pos:-1|Opts:Stem=Up
+|Note|Dur:Half|Pos:-2|Opts:Stem=Up
+|Bar
+|Note|Dur:Whole|Pos:-3|Opts:Crescendo
+|Bar
+|Dynamic|Style:f|Pos:-8
+|Note|Dur:Half|Pos:0|Opts:Stem=Down
+|Note|Dur:4th|Pos:1|Opts:Stem=Down
+|Note|Dur:4th|Pos:0|Opts:Stem=Down
+|Bar
+|Note|Dur:4th,Slur|Pos:0|Opts:Stem=Down
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Note|Dur:Half|Pos:-1|Opts:Stem=Up
+|Bar
+|Note|Dur:Half|Pos:-1|Opts:Stem=Up
+|Note|Dur:4th|Pos:0|Opts:Stem=Down
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Bar|SysBreak:Y
+|Note|Dur:4th,Slur|Pos:-1|Opts:Stem=Up
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Bar
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Note|Dur:4th|Pos:0|Opts:Stem=Down
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Bar
+|Note|Dur:Half|Pos:-2|Opts:Stem=Up
+|Note|Dur:Half|Pos:-3|Opts:Stem=Up
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Justify:Center|Placement:AtNextNote
+|Note|Dur:Whole|Pos:-4
+|AddStaff|Name:"Alt"|Label:"Alt"|LabelAbbr:"A."|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:24|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
+|Lyric1|Text:"Här_-lig_ är_ jo_-or_-den._\nHär_-lig_ är_ Guds_ hi_-im_-mel._\nSkön_ ä_-är_ sjä_-ar_-nas_ pil_-grims_-gång._\nGe_-nom_ de_ fa_-gra_ ri_-ken_ på_ jor_-den_ gå_ vi_ till_ pa_-ra_-dis_ med_ sång\n"
+|Lyric2|Text:"Ti_-de_-varv_ ko_-om_-ma._\nTi_-de_-varv_ för_-svi_-in_-na._\nSläk_-te_-en_ föl_-ja_-a_ släk_-tens_ gång._\nAl_-drig_ för_ stu_-mas_ to_-nen_ från_ him_-len_ i_ själ_-ens_ gla_-da_ pil_-grims_-sång.\n"
+|Lyric3|Text:"Äng_-lar_ dem_ sjö_-öng_-o_ först_ för_ mar_-kens_ he_-er_-dar._\nSkönt_ frå_-ån_ själ_ ti_-ill_ själ_ det_ ljöd:_ \'\'Män_-nis_-ka,_\nglä_-dig!_ Fräl_-sarn_ är_ kom_-men,_\nfrid_ ö_-ver_ jor_-den_ Her_-ren_ bjöd.\"\n"
+|Clef|Type:Treble
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:Common
+|Dynamic|Style:p|Pos:-8
+|Note|Dur:Half|Pos:-7|Opts:Stem=Up
+|Note|Dur:4th|Pos:-6|Opts:Stem=Up
+|Note|Dur:4th|Pos:-6|Opts:Stem=Up
+|Bar
+|Note|Dur:4th,Slur|Pos:-6|Opts:Stem=Up
+|Note|Dur:4th|Pos:-7|Opts:Stem=Up
+|Note|Dur:Half|Pos:-7|Opts:Stem=Up
+|Bar
+|Note|Dur:4th|Pos:-7|Opts:Stem=Up
+|Note|Dur:4th|Pos:-7|Opts:Stem=Up
+|Note|Dur:4th|Pos:-7|Opts:Stem=Up
+|Note|Dur:4th|Pos:-7|Opts:Stem=Up
+|Bar
+|Note|Dur:4th,Slur|Pos:-6|Opts:Stem=Up
+|Note|Dur:4th|Pos:-5|Opts:Stem=Up
+|Note|Dur:Half|Pos:-4|Opts:Stem=Up
+|Bar
+|Note|Dur:Half|Pos:-2|Opts:Stem=Up
+|Note|Dur:4th,Slur|Pos:-4|Opts:Stem=Up
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Bar|SysBreak:Y
+|Note|Dur:Half|Pos:-2|Opts:Stem=Up
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Note|Dur:4th|Pos:-4|Opts:Stem=Up
+|Bar
+|Note|Dur:Half|Pos:-3|Opts:Stem=Up
+|Note|Dur:Half|Pos:-4|Opts:Stem=Up
+|Bar
+|Note|Dur:Whole|Pos:-5|Opts:Crescendo
+|Bar
+|Dynamic|Style:f|Pos:-8
+|Note|Dur:Half|Pos:-2|Opts:Stem=Up
+|Note|Dur:4th|Pos:-4|Opts:Stem=Up
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Bar
+|Note|Dur:Half|Pos:-2|Opts:Stem=Up
+|Note|Dur:Half|Pos:-3|Opts:Stem=Up
+|Bar
+|Note|Dur:Half|Pos:-3|Opts:Stem=Up
+|Note|Dur:4th|Pos:-5|Opts:Stem=Up
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Bar|SysBreak:Y
+|Note|Dur:Half|Pos:-3|Opts:Stem=Up
+|Note|Dur:4th|Pos:-4|Opts:Stem=Up
+|Note|Dur:4th|Pos:-4|Opts:Stem=Up
+|Bar
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Note|Dur:4th|Pos:-4|Opts:Stem=Up
+|Note|Dur:4th|Pos:-4|Opts:Stem=Up
+|Note|Dur:4th|Pos:-6|Opts:Stem=Up
+|Bar
+|Note|Dur:Half|Pos:-4|Opts:Stem=Up
+|Note|Dur:Half|Pos:-5|Opts:Stem=Up
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Justify:Center|Placement:AtNextNote
+|Note|Dur:Whole|Pos:-7
+|AddStaff|Name:"Tenor"|Label:"Tenor"|LabelAbbr:"T."|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:24|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
+|Lyric1|Text:"Här_-lig_ är_ jor_-den._\nHär_-lig_ är_ Guds_ hi_-im_-mel._\nSkön_ ä_-är_ sjä_-ar_-nas_ pil_-grims_-gång._\nGe_-nom_ de_ fa_-a_-gra_ ri_-ken_ på_ jor_-den_ gå_ vi_ till_ pa_-ra_-dis_ med_ sång\n"
+|Lyric2|Text:"Ti_-de_-varv_ kom_-ma._\nTi_-de_-varv_ för_-svi_-in_-na._\nSläk_-te_-en_ föl_-ja_-a_ släk_-tens_ gång._\nAl_-drig_ för_ stu_-um_-mas_ to_-nen_ från_ him_-len_ i_ själ_-ens_ gla_-da_ pil_-grims_-sång.\n"
+|Lyric3|Text:"Äng_-lar_ dem_ sjön_-go_ först_ för_ mar_-kens_ he_-er_-dar._\nSkönt_ frå_-ån_ själ_ ti_-ill_ själ_ det_ ljöd:_ \'\'Män_-nis_-ka,_\nglä_-äd_ dig!_ Fräl_-sarn_ är_ kom_-men,_\nfrid_ ö_-ver_ jor_-den_ Her_-ren_ bjöd.\"\n"
+|Clef|Type:Treble|OctaveShift:Octave Down
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:Common
+|Dynamic|Style:p|Pos:-8
+|Note|Dur:Half|Pos:-2|Opts:Stem=Up
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Bar
+|Note|Dur:Half|Pos:-1|Opts:Stem=Up
+|Note|Dur:Half|Pos:-2|Opts:Stem=Up
+|Bar
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Bar
+|Note|Dur:4th,Slur|Pos:-4|Opts:Stem=Up
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Note|Dur:Half|Pos:0|Opts:Stem=Down
+|Bar
+|Note|Dur:Half|Pos:0|Opts:Stem=Down
+|Note|Dur:4th,Slur|Pos:1|Opts:Stem=Down
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Bar|SysBreak:Y
+|Note|Dur:Half|Pos:0|Opts:Stem=Down
+|Note|Dur:4th|Pos:0|Opts:Stem=Down
+|Note|Dur:4th|Pos:0|Opts:Stem=Down
+|Bar
+|Note|Dur:Half|Pos:0|Opts:Stem=Down
+|Note|Dur:Half|Pos:0|Opts:Stem=Down
+|Bar
+|Note|Dur:Whole|Pos:0|Opts:Crescendo
+|Bar
+|Dynamic|Style:f|Pos:-8
+|Note|Dur:Half|Pos:3|Opts:Stem=Down
+|Note|Dur:4th|Pos:3|Opts:Stem=Down
+|Note|Dur:4th|Pos:3|Opts:Stem=Down
+|Bar
+|Note|Dur:4th,Slur|Pos:3|Opts:Stem=Down
+|Note|Dur:4th|Pos:0|Opts:Stem=Down
+|Note|Dur:Half|Pos:1|Opts:Stem=Down
+|Bar
+|Note|Dur:Half|Pos:1|Opts:Stem=Down
+|Note|Dur:4th|Pos:0|Opts:Stem=Down
+|Note|Dur:4th|Pos:1|Opts:Stem=Down
+|Bar|SysBreak:Y
+|Note|Dur:Half|Pos:2|Opts:Stem=Down
+|Note|Dur:4th|Pos:0|Opts:Stem=Down
+|Note|Dur:4th|Pos:0|Opts:Stem=Down
+|Bar
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Note|Dur:4th|Pos:-4|Opts:Stem=Up
+|Note|Dur:4th|Pos:-4|Opts:Stem=Up
+|Bar
+|Note|Dur:Half|Pos:-4|Opts:Stem=Up
+|Note|Dur:Half|Pos:-3|Opts:Stem=Up
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Justify:Center|Placement:AtNextNote
+|Note|Dur:Whole|Pos:-2
+|AddStaff|Name:"Bas"|Label:"Bas"|LabelAbbr:"B."|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:24|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
+|Lyric1|Text:"Här_-lig_ är_ jo_-or_-den._\nHär_-lig_ är_ Guds_ hi_-im_-mel._\nSkön_ ä_-är_ sjä_-ar_-nas_ pil_-grims_-gång._\nGe_-nom_ de_ fa_-gra_ ri_-ken_ på_ jor_-den_ gå_ vi_ till_ pa_-ra_-dis_ med_ sång\n"
+|Lyric2|Text:"Ti_-de_-varv_ ko_-om_-ma._\nTi_-de_-varv_ för_-svi_-in_-na._\nSläk_-te_-en_ föl_-ja_-a_ släk_-tens_ gång._\nAl_-drig_ för_ stum_-mas_ to_-nen_ från_ him_-len_ i_ själ_-ens_ gla_-da_ pil_-grims_-sång.\n"
+|Lyric3|Text:"Äng_-lar_ dem_ sjö_-öng_-o_ först_ för_ mar_-kens_ he_-er_-dar._\nSkönt_ frå_-ån_ själ_ ti_-ill_ själ_ det_ ljöd:_ \'\'Män_-nis_-ka,_\ngläd_-dig!_ Fräl_-sarn_ är_ kom_-men,_\nfrid_ ö_-ver_ jor_-den_ Her_-ren_ bjöd.\"\n"
+|Clef|Type:Bass
+|Key|Signature:Bb,Eb,Ab|Tonic:E
+|TimeSig|Signature:Common
+|Dynamic|Style:p|Pos:-8
+|Note|Dur:Half|Pos:1|Opts:Stem=Down
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Bar
+|Note|Dur:4th,Slur|Pos:-3|Opts:Stem=Up
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Note|Dur:Half|Pos:1|Opts:Stem=Down
+|Bar
+|Note|Dur:4th|Pos:1|Opts:Stem=Down
+|Note|Dur:4th|Pos:0|Opts:Stem=Down
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Bar
+|Note|Dur:4th,Slur|Pos:-3|Opts:Stem=Up
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Note|Dur:Half|Pos:1|Opts:Stem=Down
+|Bar
+|Note|Dur:Half|Pos:1|Opts:Stem=Down
+|Note|Dur:4th,Slur|Pos:-3|Opts:Stem=Up
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Bar|SysBreak:Y
+|Note|Dur:Half|Pos:1|Opts:Stem=Down
+|Note|Dur:4th|Pos:1|Opts:Stem=Down
+|Note|Dur:4th|Pos:1|Opts:Stem=Down
+|Bar
+|Note|Dur:Half|Pos:0|Opts:Stem=Down
+|Note|Dur:Half|Pos:1|Opts:Stem=Down
+|Bar
+|Note|Dur:Whole|Pos:-2|Opts:Crescendo
+|Bar
+|Dynamic|Style:f|Pos:-8
+|Note|Dur:Half|Pos:-4|Opts:Stem=Up
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Note|Dur:4th|Pos:-2|Opts:Stem=Up
+|Bar
+|Note|Dur:Half|Pos:-1|Opts:Stem=Up
+|Note|Dur:Half|Pos:2|Opts:Stem=Down
+|Bar
+|Note|Dur:Half|Pos:-5|Opts:Stem=Up
+|Note|Dur:4th|Pos:-4|Opts:Stem=Up
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Bar|SysBreak:Y
+|Note|Dur:Half|Pos:-2|Opts:Stem=Up
+|Note|Dur:4th|Pos:1|Opts:Stem=Down
+|Note|Dur:4th|Pos:1|Opts:Stem=Down
+|Bar
+|Note|Dur:4th|Pos:0|Opts:Stem=Down
+|Note|Dur:4th|Pos:-1|Opts:Stem=Up
+|Note|Dur:4th|Pos:-4|Opts:Stem=Up
+|Note|Dur:4th|Pos:-3|Opts:Stem=Up
+|Bar
+|Note|Dur:Half|Pos:-2|Opts:Stem=Up
+|Note|Dur:Half|Pos:-2|Opts:Stem=Up
+|Bar
+|TempoVariance|Style:Fermata|Pause:0|Pos:9|Justify:Center|Placement:AtNextNote
+|Note|Dur:Whole|Pos:1
+!NoteWorthyComposer-End

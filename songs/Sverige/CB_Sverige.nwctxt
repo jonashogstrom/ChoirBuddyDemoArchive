@@ -1,5 +1,5 @@
 !NoteWorthyComposer(2.751)
-|Editor|ActiveStaff:1|CaretIndex:5|CaretPos:5
+|Editor|ActiveStaff:2|CaretIndex:6|CaretPos:11
 |SongInfo|Title:"Sverige"|Author:"Wilhelm Stenhammar"|Lyricist:"Verner v Heidenstam"|Copyright1:""|Copyright2:""
 |PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:Y|PageNumbers:0|StaffLabels:None|BarNumbers:None|StartingBar:1
 |Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:10|Bold:Y|Italic:Y|CharSet:0
@@ -20,7 +20,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"Sve_-ri_-ge_ Sve_-ri_-ge_ Sve_-ri_-ge_ fos_-ter_-land_ vår_ läng_-tans_ bygd_ vårt_ hem_ på_ jor_-den_ Nu_ spe_-la_ skäl_-lor_-na_ där_ hä_-rar_ lysts_ av_ brand_ och_ dåd_ blev_ sa_-ga_ men_ med_ hand_ vid_ hand_ svär_ än_ ditt_ folk_ som_ förr_ de_ gam_-la_ tro_-hets_-or_-den_ Fall_ ju_-le_-snö_ och_ su_-sa_ dju_-pa_ mo_ Brinn_ ös_-ter_-stjä_-rna_ ge_-nom_ ju_-ni_ kväl_-len_ Sve_-ri_-ge_ mo_-der_ Bliv_ vår_ strid_ vår_ ro_ du_ land_ där_ vå_-ra_ barn_ en_ gång_ få_ bo_ och_ vå_-ra_ fä_-der_ so_-va_ un_-der_ kyr_-ko_-häl_-len\n"
+|Lyric1|Text:"Sve-ri-ge, Sve-ri-ge,\nSve-ri-ge, fos-ter-land,\nvår läng-tans bygd,\nvårt hem på jor-den!\nNu spe-la skäl-lor-na,\ndär hä-rar lysts av brand,\noch dåd blev sa-ga,\nmen med hand vid hand\nsvär än ditt folk som förr\nde gam-la tro-hets-or-den.\n\nFall ju-le-snö\noch su-sa dju-pa mo!\nBrinn ös-ter-stjä-rna\nge-nom ju-ni kväl-len!\nSve-ri-ge mo-der!\nBliv vår strid, vår ro,\ndu land,\ndär vå-ra barn en gång få bo\noch vå-ra fä-der so-va\nun-der kyr-ko-häl-len.\n"
 |Clef|Type:Treble
 |Key|Signature:Bb,Eb,Ab,Db|Tonic:A
 |TimeSig|Signature:4/4
@@ -190,7 +190,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"Sve_-ri_-ge_ Sve_-ri_-ge_ Sve_-ri_-ge_ fos_-ter_-land_ vår_ läng_-tans_ bygd_ vårt_ hem_ på_ jor_-den_ nu_ spe_-la_ skäl_-lor_-na_ där_ hä_-rar_ lysts_ av_ brand_ och_ dåd_ blev_ sa_-ga_ men_ med_ hand_ vid_ hand_ svär_ än_ ditt_ folk_ som_ förr_ de_ gam_-la_ tro_-hets_-or_-den_ Fall_ ju_-le_-snö_ och_ su_-sa_ dju_-pa_ mo_ Brinn_ ös_-ter_-stjä_-rna_ ge_-nom_ ju_-ni_ kväl_-len_ Sve_-ri_-ge_ mo_-der_ Bliv_ vår_ strid_ vår_ ro_ du_ land_ där_ vå_-ra_ barn_ en_ gång_ få_ bo_ och_ vå_-ra_ fä_-der_ so_-va_ un_-der_ kyr_-ko_-häl_-len\n"
+|Lyric1|Text:"Sve-ri-ge, Sve-ri-ge,\nSve-ri-ge, fos-ter-land,\nvår läng-tans bygd,\nvårt hem på jor-den!\nNu spe-la skäl-lor-na,\ndär hä-rar lysts av brand,\noch dåd blev sa-ga,\nmen med hand vid hand\nsvär än ditt folk som förr\nde gam-la tro-hets-or-den.\n\nFall ju-le-snö\noch su-sa dju-pa mo!\nBrinn ös-ter-stjä-rna\nge-nom ju-ni kväl-len!\nSve-ri-ge mo-der!\nBliv vår strid, vår ro,\ndu land,\ndär vå-ra barn en gång få bo\noch vå-ra fä-der so-va\nun-der kyr-ko-häl-len.\n"
 |Clef|Type:Treble
 |Key|Signature:Bb,Eb,Ab,Db|Tonic:A
 |TimeSig|Signature:4/4
@@ -361,7 +361,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"Sve_-ri_-ge_ Sve_-ri_-ge_ Sve_-ri_-ge_ fos_-ter_-land_ vår_ läng_-tans_ bygd_ vårt_ hem_ på_ jor_-den_ nu_ spe_-la_ skäl_-lor_-na_ där_ hä_-rar_ lysts_ av_ brand_ och_ dåd_ blev_ sa_-ga_ men_ med_ hand_ vid_ hand_ svär_ än_ ditt_ folk_ som_ förr_ de_ gam_-la_ tro_-hets_-or_-den_ Fall_ ju_-le_-snö_ och_ su_-sa_ dju_-pa_ mo_ Brinn_ ös_-ter_-stjä_-rna_ ge_-nom_ ju_-ni_ kväl_-len_ Sve_-ri_-ge_ mo_-der_ Bliv_ vår_ strid_ vår_ ro_ du_ land_ där_ vå_-ra_ barn_ en_ gång_ få_ bo_ och_ vå_-ra_ fä_-der_ so_-va_ un_-der_ kyr_-ko_-häl_-len\n"
+|Lyric1|Text:"Sve-ri-ge, Sve-ri-ge,\nSve-ri-ge, fos-ter-land,\nvår läng-tans bygd,\nvårt hem på jor-den!\nNu spe-la skäl-lor-na,\ndär hä-rar lysts av brand,\noch dåd blev sa-ga,\nmen med hand vid hand\nsvär än ditt folk som förr\nde gam-la tro-hets-or-den.\n\nFall ju-le-snö\noch su-sa dju-pa mo!\nBrinn ös-ter-stjä-rna\nge-nom ju-ni kväl-len!\nSve-ri-ge mo-der!\nBliv vår strid, vår ro,\ndu land,\ndär vå-ra barn en gång få bo\noch vå-ra fä-der so-va\nun-der kyr-ko-häl-len.\n"
 |Clef|Type:Treble
 |Key|Signature:Bb,Eb,Ab,Db|Tonic:A
 |TimeSig|Signature:4/4
@@ -532,7 +532,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"Sve_-ri_-ge_ Sve_-ri_-ge_ Sve_-ri_-ge_ fos_-ter_-land_ vår_ läng_-tans_ bygd_ vårt_ hem_ på_ jor_-den_ Nu_ spe_-la_ skäl_-lor_-na_ där_ hä_-rar_ lysts_ av_ brand_ och_ dåd_ blev_ sa_-ga_ men_ med_ hand_ vid_ hand_ svär_ än_ ditt_ folk_ som_ förr_ de_ gam_-la_ tro_-hets_-or_-den_ Fall_ ju_-le_-snö_ och_ su_-sa_ dju_-pa_ mo_ Brinn_ ös_-ter_-stjä_-rna_ ge_-nom_ ju_-ni_ kväl_-len_ Sve_-ri_-ge_ mo_-der_ Bliv_ vår_ strid_ vår_ ro_ du_ land_ där_ vå_-ra_ barn_ en_ gång_ få_ bo_ och_ vå_-ra_ fä_-der_ so_-va_ un_-der_ kyr_-ko_-häl_-len\n"
+|Lyric1|Text:"Sve-ri-ge, Sve-ri-ge,\nSve-ri-ge, fos-ter-land,\nvår läng-tans bygd,\nvårt hem på jor-den!\nNu spe-la skäl-lor-na,\ndär hä-rar lysts av brand,\noch dåd blev sa-ga,\nmen med hand vid hand\nsvär än ditt folk som förr\nde gam-la tro-hets-or-den.\n\nFall ju-le-snö\noch su-sa dju-pa mo!\nBrinn ös-ter-stjä-rna\nge-nom ju-ni kväl-len!\nSve-ri-ge mo-der!\nBliv vår strid, vår ro,\ndu land,\ndär vå-ra barn en gång få bo\noch vå-ra fä-der so-va\nun-der kyr-ko-häl-len.\n"
 |Clef|Type:Treble|OctaveShift:Octave Down
 |Key|Signature:Bb,Eb,Ab,Db|Tonic:A
 |TimeSig|Signature:4/4
@@ -701,7 +701,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"Sve_-ri_-ge_ Sve_-ri_-ge_ Sve_-ri_-ge_ fos_-ter_-land_ vår_ läng_-tans_ bygd_ vårt_ hem_ på_ jor_-den_ Nu_ spe_-la_ skäl_-lor_-na_ där_ hä_-rar_ lysts_ av_ brand_ och_ dåd_ blev_ sa_-ga_ men_ med_ hand_ vid_ hand_ svär_ än_ ditt_ folk_ som_ förr_ de_ gam_-la_ tro_-hets_-or_-den_ Fall_ ju_-le_-snö_ och_ su_-sa_ dju_-pa_ mo_ Brinn_ ös_-ter_-stjä_-rna_ ge_-nom_ ju_-ni_ kväl_-len_ Sve_-ri_-ge_ mo_-der_ Bliv_ vår_ strid_ vår_ ro_ du_ land_ där_ vå_-ra_ barn_ en_ gång_ få_ bo_ och_ vå_-ra_ fä_-der_ so_-va_ un_-der_ kyr_-ko_-häl_-len\n"
+|Lyric1|Text:"Sve-ri-ge, Sve-ri-ge,\nSve-ri-ge, fos-ter-land,\nvår läng-tans bygd,\nvårt hem på jor-den!\nNu spe-la skäl-lor-na,\ndär hä-rar lysts av brand,\noch dåd blev sa-ga,\nmen med hand vid hand\nsvär än ditt folk som förr\nde gam-la tro-hets-or-den.\n\nFall ju-le-snö\noch su-sa dju-pa mo!\nBrinn ös-ter-stjä-rna\nge-nom ju-ni kväl-len!\nSve-ri-ge mo-der!\nBliv vår strid, vår ro,\ndu land,\ndär vå-ra barn en gång få bo\noch vå-ra fä-der so-va\nun-der kyr-ko-häl-len.\n"
 |Clef|Type:Treble|OctaveShift:Octave Down
 |Key|Signature:Bb,Eb,Ab,Db|Tonic:A
 |TimeSig|Signature:4/4
@@ -833,7 +833,7 @@
 |Note|Dur:8th|Pos:1|Opts:Stem=Down,Crescendo,Beam=End
 |Note|Dur:4th,Slur|Pos:2|Opts:Stem=Down,Crescendo
 |Dynamic|Style:f|Pos:-8
-|Note|Dur:4th|Pos:0|Opts:Stem=Down,Crescendo
+|Note|Dur:4th,Slur|Pos:0|Opts:Stem=Down,Crescendo
 |Bar
 |Note|Dur:4th,Dotted|Pos:-1|Opts:Stem=Up,Crescendo,Lyric=Never
 |Note|Dur:8th|Pos:-1|Opts:Stem=Up,Crescendo
@@ -871,7 +871,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"Sve_-ri_-ge_ Sve_-ri_-ge_ Sve_-ri_-ge_ fos_-ter_-land_ vår_ läng_-tans_ bygd_ vårt_ hem_ på_ jor_-den_ där_ hä_-rar_ lysts_ av_ brand_ och_ dåd_ blev_ sa_-ga_ men_ med_ hand_ vid_ hand_ svär_ än_ ditt_ folk_ som_ förr_ de_ gam_-la_ tro_-hets_-or_-den_ Fall_ snö_ su_-sa_ mo_ Brinn_ ös_-ter_-stjä_-rna_ ge_-nom_ ju_-ni_ kväl_-len_ Sve_-ri_-ge_ mo_-der_ Bliv_ vår_ strid_ vår_ ro_ du_ land_ där_ vå_-ra_ barn_ en_ gång_ få_ bo_ och_ vå_-ra_ fä_-der_ so_-va_ un_-der_ kyr_-ko_-häl_-len\n"
+|Lyric1|Text:"Sve-ri-ge, Sve-ri-ge,\nSve-ri-ge, fos-ter-land,\nvår läng-tans bygd,\nvårt hem på jor-den!\n\ndär hä-rar lysts av brand,\noch dåd blev sa-ga,\nmen med hand vid hand\nsvär än ditt folk som förr\nde gam-la tro-hets-or-den.\n\nFall snö\nsu-sa mo!\nBrinn ös-ter-stjä-rna\nge-nom ju-ni kväl-len!\nSve-ri-ge mo-der!\nBliv vår strid, vår ro,\ndu land,\ndär vå-ra barn en gång få bo\noch vå-ra fä-der so-va\nun-der kyr-ko-häl-len.\n"
 |Clef|Type:Bass
 |Key|Signature:Bb,Eb,Ab,Db|Tonic:A
 |TimeSig|Signature:4/4
@@ -1033,7 +1033,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"Sve_-ri_-ge_ Sve_-ri_-ge_ Sve_-ri_-ge_ fos_-ter_-land_ vår_ läng_-tans_ bygd_ vårt_ hem_ på_ jor_-den_ där_ hä_-rar_ lysts_ av_ brand_ och_ dåd_ blev_ sa_-ga_ men_ med_ hand_ vid_ hand_ svär_ än_ ditt_ folk_ som_ förr_ de_ gam_-la_ tro_-hets_-or_-den_ Fall_ snö_ su_-sa_ mo_ Brinn_ ös_-ter_-stjä_-rna_ ge_-nom_ ju_-ni_ kväl_-len_ Sve_-ri_-ge_ mo_-der_ Bliv_ vår_ strid_ vår_ ro_ land_ du_ land_ där_ vå_-ra_ barn_ en_ gång_ få_ bo_ och_ vå_-ra_ fä_-der_ so_-va_ un_-der_ kyr_-ko_-häl_-len\n"
+|Lyric1|Text:"Sve-ri-ge, Sve-ri-ge,\nSve-ri-ge, fos-ter-land,\nvår läng-tans bygd,\nvårt hem på jor-den!\n\ndär hä-rar lysts av brand,\noch dåd blev sa-ga,\nmen med hand vid hand\nsvär än ditt folk som förr\nde gam-la tro-hets-or-den.\n\nFall snö\nsu-sa mo!\nBrinn ös-ter-stjä-rna\nge-nom ju-ni kväl-len!\nSve-ri-ge mo-der!\nBliv vår strid, vår ro,\ndu land,\ndär vå-ra barn en gång få bo\noch vå-ra fä-der so-va\nun-der kyr-ko-häl-len.\n"
 |Clef|Type:Bass
 |Key|Signature:Bb,Eb,Ab,Db|Tonic:A
 |TimeSig|Signature:4/4

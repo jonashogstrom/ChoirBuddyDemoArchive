@@ -20,7 +20,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
 |StaffInstrument|Name:"Acoustic Grand Piano"|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"*Ec-ce quo-mo-do mo-ri-tur ju-stus,\net ne-mo per-ci-pit corde,\net ne-mo per-ci-pit cor-de.\nVi-ri ju-sti tol-lun-tur,\net ne-mo con-si-de-rat\na fa-ci-e in-i-qui-ta-tis.\nSub-la-tus est ju-stus\net e-rit in pa-ce me-mo-ri-a e-jus,\net e-rit in pa-ce me-mo-ri-a e-jus.\nIn pa-ce fa-ctus est lo-cus e-jus,\net in Si-on ha-bi-ta-ti-o _ _ _ e-jus,\net in Si-on ha-bi-ta-ti-o _ _ _ e-jus,\net e-rit in pa-ce me-mo-ri-a e-jus,\net e-rit in pa-ce me-mo-ri-a e-jus.\n"
+|Lyric1|Text:"Ec-ce quo-mo-do mo-ri-tur ju-stus,\net ne-mo per-ci-pit corde,\net ne-mo per-ci-pit cor-de.\nVi-ri ju-sti tol-lun-tur,\net ne-mo con-si-de-rat\na fa-ci-e in-i-qui-ta-tis.\nSub-la-tus est ju-stus\net e-rit in pa-ce me-mo-ri-a e-jus,\net e-rit in pa-ce me-mo-ri-a e-jus.\nIn pa-ce fa-ctus est lo-cus e-jus,\net in Si-on ha-bi-ta-ti-o _ _ _ e-jus,\net in Si-on ha-bi-ta-ti-o _ _ _ e-jus,\net e-rit in pa-ce me-mo-ri-a e-jus,\net e-rit in pa-ce me-mo-ri-a e-jus.\n"
 |Clef|Type:Treble
 |Key|Signature:Bb,Eb,Ab|Tonic:E
 |TimeSig|Signature:AllaBreve

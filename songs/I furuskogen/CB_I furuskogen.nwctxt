@@ -1,5 +1,5 @@
 !NoteWorthyComposer(2.751)
-|Editor|ActiveStaff:4|CaretIndex:7|CaretPos:0
+|Editor|ActiveStaff:4|CaretIndex:25|CaretPos:-6
 |SongInfo|Title:"I furuskogen"|Author:""|Lyricist:""|Copyright1:""|Copyright2:""
 |PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:Y|PageNumbers:0|StaffLabels:None|BarNumbers:None|StartingBar:1
 |Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:10|Bold:Y|Italic:Y|CharSet:0
@@ -20,7 +20,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"Det_ är_ en_ ren_-het_ i_ din_ luft,_\nen_ troll_-dom_ i_ den_ vil_-da_ doft_ som_ ge_-nom_ sko_-gen_ ström_-mar,_\nge_-nom_ fu_-ru_-sko_-gen_ ström_-mar,_\nja_ det_ är_ en_ ren_-het_ i_ din_ luft,_\nen_ troll_-dom_ i_ den_ vil_-da_ doft_ som_ ge_-nom_ sko_-gen_ ström_-mar,_\nge_-nom_ fu_-ru_-sko_-gen_ ström_-mar,_\nja_ det_ är_ en_ ren_-het_ i_ din_ luft,_\nen_ troll_-dom_ i_ den_ vil_-da_ doft_ som_ ge_-nom_ sko_-gen_ ström_-mar,_\nge_-nom_ fu_-ru_-sko_-gen_ ström_-mar,_\nha_ det_ är_ en_ ren_-het_ i_ din_ luft,_\nen_ troll_-dom_ i_ den_ doft_ där_ back_-en_ dan_-sar_ glad_ och_ fri,_\nså_ glad_ och_ fri,_\noch_ äl_-ven_ gli_-der_ tyst_ för_-bi_ i_ dju_-pa_ all_-vars_-dröm_-mar_ i_ dju_-pa_ all_-vars_-dröm_-mar\n"
+|Lyric1|Text:"Det är en ren-het i din luft,\nen troll-dom i den vil-da doft\nsom ge-nom sko-gen ström-mar,\nge-nom fu-ru-sko-gen ström-mar,\nja det är en ren-het i din luft,\nen troll-dom i den vil-da doft\nsom ge-nom sko-gen ström-mar,\nge-nom fu-ru-sko-gen ström-mar,\nja det är en ren-het i din luft,\nen troll-dom i den vil-da doft\nsom ge-nom sko-gen ström-mar,\nge-nom fu-ru-sko-gen ström-mar,\nha det är en ren-het i din luft,\nen troll-dom i den doft\ndär back-en dan-sar glad och fri,\nså glad och fri,\noch äl-ven gli-der tyst för-bi\ni dju-pa all-vars-dröm-mar\ni dju-pa all-vars-dröm-mar\n"
 |Clef|Type:Treble
 |Key|Signature:Bb,Eb,Ab,Db|Tonic:A
 |TimeSig|Signature:Common
@@ -212,7 +212,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"Det_ är_ en_ ren_-het_ i_ din_ luft,_\nen_ troll_-dom_ i_ den_ vil_-da_ doft_ som_ ge_-nom_ sko_-gen_ ström_-mar,_\nge_-nom_ fu_-ru_-sko_-gen_ ström_-mar,_\nja_ det_ är_ en_ ren_-het_ i_ din_ luft,_\nen_ troll_-dom_ i_ den_ vil_-da_ doft_ som_ ge_-nom_ sko_-gen_ ström_-mar,_\nge_-nom_ fu_-ru_-sko_-gen_ ström_-mar,_\nja_ det_ är_ en_ ren_-het_ i_ din_ luft,_\nen_ troll_-dom_ i_ den_ vil_-da_ doft_ som_ ge_-nom_ sko_-gen_ ström_-mar,_\nge_-nom_ fu_-ru_-sko_-gen_ ström_-mar,_\nha_ det_ är_ en_ ren_-het_ i_ din_ luft,_\nen_ troll_-dom_ i_ den_ doft_ där_ back_-en_ dan_-sar_ glad_ och_ fri,_\nså_ glad_ och_ äl_-ven_ gli_-der_ tyst_ för_-bi_ i_ dju_-pa_ all_-vars_-dröm_-mar_ i_ dju_-pa_ all_-vars_-dröm_-mar\n"
+|Lyric1|Text:"Det är en ren-het i din luft,\nen troll-dom i den vil-da doft\nsom ge-nom sko-gen ström-mar,\nge-nom fu-ru-sko-gen ström-mar,\nja det är en ren-het i din luft,\nen troll-dom i den vil-da doft\nsom ge-nom sko-gen ström-mar,\nge-nom fu-ru-sko-gen ström-mar,\nja det är en ren-het i din luft,\nen troll-dom i den vil-da doft\nsom ge-nom sko-gen ström-mar,\nge-nom fu-ru-sko-gen ström-mar,\nha det är en ren-het i din luft,\nen troll-dom i den doft\ndär back-en dan-sar glad och fri,\nså glad och äl-ven gli-der tyst för-bi\ni dju-pa all-vars-dröm-mar\ni dju-pa all-vars-dröm-mar\n"
 |Clef|Type:Treble
 |Key|Signature:Bb,Eb,Ab,Db|Tonic:A
 |TimeSig|Signature:Common
@@ -404,7 +404,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"Det_ är_ en_ ren_-het_ i_ din_ luft_ en_ troll_-dom_ i_ den_ vil_-da_ doft._\nsom_ ge_-nom_ sko_-gen_ ström_-mar_ där_ back_-en_ dan_-sar_ glad_ och_ fri_ där_ back_-en_ dan_-sar_ glad_ och_ fri_ och_ äl_-ven_ gli_-der_ tyst,_\nså_ tyst_ för_-bi_ i_ dju_-pa_ all_-vars_ dröm_-mar_ i_ dju_-pa_ all_-vars_-dröm_-mar\n"
+|Lyric1|Text:"Det är en ren-het i din luft\nen troll-dom i den vil-da doft.\nsom ge-nom sko-gen ström-mar\ndär back-en dan-sar glad och fri\ndär back-en dan-sar glad och fri\noch äl-ven gli-der tyst, så tyst för-bi\ni dju-pa all-vars dröm-mar\ni dju-pa all-vars-dröm-mar\n"
 |Clef|Type:Treble|OctaveShift:Octave Down
 |Key|Signature:Bb,Eb,Ab,Db|Tonic:A
 |TimeSig|Signature:Common
@@ -529,7 +529,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"Det_ är_ en_ ren_-het_ i_ din_ luft_ en_ troll_-dom_ i_ den_ vil_-da_ doft_ som_ ge_-nom_ sko_-gen_ ström_-mar_ där_ back_-en_ dan_-sar_ glad_ och_ fri_ så_ glad_ och_ fri_ och_ äl_-ven_ gli_-der_ tyst_ för_-bi_ i_ dju_-pa_ all_-vars_ dröm_-mar_ i_ dju_-pa_ all_-vars_-dröm_-mar\n"
+|Lyric1|Text:"Det är en ren-het i din luft\nen troll-dom i den vil-da doft\nsom ge-nom sko-gen ström-mar\ndär back-en dan-sar glad och fri\nså glad och fri\noch äl-ven gli-der tyst för-bi\ni dju-pa all-vars dröm-mar\ni dju-pa all-vars-dröm-mar\n"
 |Clef|Type:Bass
 |Key|Signature:Bb,Eb,Ab,Db|Tonic:A
 |TimeSig|Signature:Common

@@ -1,5 +1,5 @@
 !NoteWorthyComposer(2.751)
-|Editor|ActiveStaff:4|CaretIndex:70|CaretPos:-84
+|Editor|ActiveStaff:2|CaretIndex:1|CaretPos:0
 |SongInfo|Title:"Kristallen den fina"|Author:"Folkvisa från Skattungsby i Dalarna"|Lyricist:"Arr: Anders Stenberg"|Copyright1:""|Copyright2:""
 |PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:Y|PageNumbers:0|StaffLabels:None|BarNumbers:None|StartingBar:1
 |Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:10|Bold:Y|Italic:Y|CharSet:0
@@ -20,8 +20,8 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"Kri_-i_-stal_-len_ den_ fi_-na_ som_ so_-len_ månd\'_ ski_-na_ so_-om_ stjär_-nor_-na_ blän_-ka_ i_ skyn_ Ja_-ag_ kän_-ner_ en_ flic_-ka_ i_ dyg_-den_ de_-en_ fi_-na_ e_-en_ flic_-ka_ i_ den_-na_ här_ byn_ Min_ vän,_\nmin_ vän_ och_ äl_-skogs_-blom_-ma!_ Ack_ om_ vi_ kun_-de_ till_-sam_-mans_ kom_-ma_ och_ jag_ vo_-re_ vän_-nen_ din_ och_ du_ all_-ra_ kä_-res_-tan_ min_ du_ ä_-de_-la_ ros_ och_ fö_-ör_ gyll_-lan_-de_ skrin\n"
-|Lyric2|Text:"Och_ _ om_ ja_ än_ fo_-re_ till_ värl_-de_-nes_ än_-de_ så_-å_ ro_-par_ mitt_ hjär_-ta_ till_ skyn_ Och_ _ om_ jag_ än_ fo_-re_ till_ värl_-de_-nes_ _ än_-de_ så_-å_ ro_-par_ mitt_ hjär_-ta_ till_ dig_ Till_ dig,_\nmin_ vän_ och_ äl_-skogs_-blom_-ma!_ Ack_ om_ vi_ kun_-de_ till_-sam_-mans_ kom_-ma_ och_ jag_ vo_-re_ vän_-nen_ din_ och_ du_ all_-ra_ kä_-res_-tan_ min_ du_ ä_-de_-la_ ros_ och_ fö_-ör_ gyll_-lan_-de_ skrin\n"
+|Lyric1|Text:"Kri-stal-len den fi-na\nsom so-len månd\' ski-na\nsom stjär-nor-na blän-ka i skyn\n\nJag kän-ner en flic-ka\ni dyg-den den fi-na\nen flic-ka i den-na här byn\nMin vän, min vän och äl-skogs-blom-ma!\nAck om vi kun-de till-sam-mans kom-ma\noch jag vo-re vän-nen din\noch du all-ra kä-res-tan min\ndu ä-de-la ros och för gyll-lan-de skrin\n"
+|Lyric2|Text:"Och om ja än fo-re\ntill värl-de-nes än-de\nså ro-par mitt hjär-ta till skyn\nOch om jag än fo-re\ntill värl-de-nes än-de\nså ro-par mitt hjär-ta till dig\n\nTill dig, min vän och äl-skogs-blom-ma!\nAck om vi kun-de till-sam-mans kom-ma\noch jag vo-re vän-nen din\noch du all-ra kä-res-tan min\ndu ä-de-la ros och för gyll-lan-de skrin\n"
 |Clef|Type:Treble
 |Key|Signature:Bb|Tonic:F
 |Tempo|Base:Eighth|Tempo:120|Pos:14
@@ -42,7 +42,7 @@
 |Note|Dur:16th|Pos:0|Opts:Stem=Up,Beam=End
 |Note|Dur:16th,Slur|Pos:-1|Opts:Stem=Up,Beam=First
 |Note|Dur:16th|Pos:-2|Opts:Stem=Up,Beam
-|Note|Dur:16th,Slur|Pos:-3|Opts:Stem=Up,Lyric=Never,Beam
+|Note|Dur:16th,Slur|Pos:-3|Opts:Stem=Up,Beam
 |Note|Dur:16th|Pos:-4|Opts:Stem=Up,Beam
 |Note|Dur:16th,Slur|Pos:-5|Opts:Stem=Up,Beam
 |Note|Dur:16th|Pos:-4|Opts:Stem=Up,Beam=End
@@ -73,7 +73,7 @@
 |Note|Dur:16th|Pos:0|Opts:Stem=Up,Beam=End
 |Note|Dur:16th,Slur|Pos:-1|Opts:Stem=Up,Beam=First
 |Note|Dur:16th|Pos:-2|Opts:Stem=Up,Beam
-|Note|Dur:16th,Slur|Pos:-3|Opts:Stem=Up,Lyric=Never,Beam
+|Note|Dur:16th,Slur|Pos:-3|Opts:Stem=Up,Beam
 |Note|Dur:16th|Pos:-4|Opts:Stem=Up,Beam
 |Note|Dur:16th,Slur|Pos:-5|Opts:Stem=Up,Beam
 |Note|Dur:16th|Pos:-4|Opts:Stem=Up,Beam=End
@@ -158,8 +158,8 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"Kri_-stal_-len_ den_ fi_-na_ som_ so_-len_ månd\'_ ski_-na_ so_-stjär_-nor_-na_ blän_-ka_ i_ skyn_ Ja_-kän_-ner_ en_ flic_-ka_ i_ dyg_-den_ de_-fi_-na_ e_-flic_-ka_ i_ den_-na_ här_ byn_ Min_ vän,_\nmin_ vän_ och_ äl_-skogs_-blom_-ma!_ Ack_ om_ vi_ kun_-de_ till_-sam_-mans_ kom_-ma_ och_ jag_ vo_-re_ vän_-nen_ din_ och_ du_ all_-ra_ kä_-res_-tan_ min_ du_ ä_-de_-la_ ros_ och_ för_-gyll_-lan_-de_ skrin\n"
-|Lyric2|Text:"Och_ om_ ja_ än_ fo_-re_ till_ värl_-de_-nes_ än_-de_ så_-ro_-par_ mitt_ hjär_-ta_ till_ skyn_ Och_ om_ jag_ än_ fo_-re_ till_ värl_-de_-nes_ än_-de_ så_-ro_-par_ mitt_ hjär_-ta_ till_ dig_ Till_ dig,_\nmin_ vän_ och_ äl_-skogs_-blom_-ma!_ Ack_ om_ vi_ kun_-de_ till_-sam_-mans_ kom_-ma_ och_ jag_ vo_-re_ vän_-nen_ din_ och_ du_ all_-ra_ kä_-res_-tan_ min_ du_ ä_-de_-la_ ros_ och_ för_-gyll_-lan_-de_ skrin\n"
+|Lyric1|Text:"Kri-stal-len den fi-na som so-len månd\' ski-na so-stjär-nor-na blän-ka i skyn Ja-kän-ner en flic-ka i dyg-den de-fi-na e-flic-ka i den-na här byn Min vän,\nmin vän och äl-skogs-blom-ma! Ack om vi kun-de till-sam-mans kom-ma och jag vo-re vän-nen din och du all-ra kä-res-tan min du ä-de-la ros och för-gyll-lan-de skrin\n"
+|Lyric2|Text:"Och om ja än fo-re till värl-de-nes än-de så-ro-par mitt hjär-ta till skyn Och om jag än fo-re till värl-de-nes än-de så-ro-par mitt hjär-ta till dig Till dig,\nmin vän och äl-skogs-blom-ma! Ack om vi kun-de till-sam-mans kom-ma och jag vo-re vän-nen din och du all-ra kä-res-tan min du ä-de-la ros och för-gyll-lan-de skrin\n"
 |Clef|Type:Treble
 |Key|Signature:Bb|Tonic:F
 |TimeSig|Signature:6/8
@@ -280,8 +280,8 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"Kri_-stal_-len_ den_ fi_-na_ som_ so_-len_ månd\'_ ski_-na_ so_-stjär_-nor_-na_ blän_-ka_ i_ skyn_ Ja_-kän_-ner_ en_ flic_-ka_ i_ dyg_-den_ de_-fi_-na_ e_-flic_-ka_ i_ den_-na_ här_ byn_ Min_ vän,_\nmin_ vän_ och_ äl_-skogs_-blom_-ma!_ Ack_ om_ vi_ kun_-de_ till_-sam_-mans_ kom_-ma_ och_ jag_ vo_-re_ vän_-nen_ din_ och_ du_ all_-ra_ kä_-res_-tan_ min_ du_ ä_-de_-la_ ros_ och_ för_-gyll_-lan_-de_ skrin\n"
-|Lyric2|Text:"Och_ om_ ja_ än_ fo_-re_ till_ värl_-de_-nes_ än_-de_ så_-ro_-par_ mitt_ hjär_-ta_ till_ skyn_ Och_ om_ jag_ än_ fo_-re_ till_ värl_-de_-nes_ än_-de_ så_-ro_-par_ mitt_ hjär_-ta_ till_ dig_ Till_ dig,_\nmin_ vän_ och_ äl_-skogs_-blom_-ma!_ Ack_ om_ vi_ kun_-de_ till_-sam_-mans_ kom_-ma_ och_ jag_ vo_-re_ vän_-nen_ din_ och_ du_ all_-ra_ kä_-res_-tan_ min_ du_ ä_-de_-la_ ros_ och_ för_-gyll_-lan_-de_ skrin\n"
+|Lyric1|Text:"Kri-stal-len den fi-na som so-len månd\' ski-na so-stjär-nor-na blän-ka i skyn Ja-kän-ner en flic-ka i dyg-den de-fi-na e-flic-ka i den-na här byn Min vän,\nmin vän och äl-skogs-blom-ma! Ack om vi kun-de till-sam-mans kom-ma och jag vo-re vän-nen din och du all-ra kä-res-tan min du ä-de-la ros och för-gyll-lan-de skrin\n"
+|Lyric2|Text:"Och om ja än fo-re till värl-de-nes än-de så-ro-par mitt hjär-ta till skyn Och om jag än fo-re till värl-de-nes än-de så-ro-par mitt hjär-ta till dig Till dig,\nmin vän och äl-skogs-blom-ma! Ack om vi kun-de till-sam-mans kom-ma och jag vo-re vän-nen din och du all-ra kä-res-tan min du ä-de-la ros och för-gyll-lan-de skrin\n"
 |Clef|Type:Bass
 |Key|Signature:Bb|Tonic:F
 |TimeSig|Signature:6/8
@@ -405,8 +405,8 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"Kri_-stal_-len_ den_ fi_-na_ som_ so_-len_ månd\'_ ski_-na_ so_-stjär_-nor_-na_ blän_-ka_ i_ skyn_ Ja_-kän_-ner_ en_ flic_-ka_ i_ dyg_-den_ de_-fi_-na_ e_-flic_-ka_ i_ den_-na_ här_ byn_ Min_ vän,_\nmin_ vän_ och_ äl_-skogs_-blomma_ Ack_ om_ vi_ kun_-de_ till_-sam_-mans_ kom_-ma_ och_ jag_ vo_-re_ vän_-nen_ din_ och_ du_ all_-ra_ kä_-res_-tan_ min_ du_ ä_-de_-la_ ros_ och_ för_-gyll_-lan_-de_ skrin\n"
-|Lyric2|Text:"Och_ om_ ja_ än_ fo_-re_ till_ värl_-de_-nes_ än_-de_ så_-ro_-par_ mitt_ hjär_-ta_ till_ skyn_ Och_ om_ jag_ än_ fo_-re_ till_ värl_-de_-nes_ än_-de_ så_-ro_-par_ mitt_ hjär_-ta_ till_ dig_ Till_ dig,_\nmin_ vän_ och_ äl_-skogs_-blomma_ Ack_ om_ vi_ kun_-de_ till_-sam_-mans_ kom_-ma_ och_ jag_ vo_-re_ vän_-nen_ din_ och_ du_ all_-ra_ kä_-res_-tan_ min_ du_ ä_-de_-la_ ros_ och_ för_-gyll_-lan_-de_ skrin\n"
+|Lyric1|Text:"Kri-stal-len den fi-na som so-len månd\' ski-na so-stjär-nor-na blän-ka i skyn Ja-kän-ner en flic-ka i dyg-den de-fi-na e-flic-ka i den-na här byn Min vän,\nmin vän och äl-skogs-blomma Ack om vi kun-de till-sam-mans kom-ma och jag vo-re vän-nen din och du all-ra kä-res-tan min du ä-de-la ros och för-gyll-lan-de skrin\n"
+|Lyric2|Text:"Och om ja än fo-re till värl-de-nes än-de så-ro-par mitt hjär-ta till skyn Och om jag än fo-re till värl-de-nes än-de så-ro-par mitt hjär-ta till dig Till dig,\nmin vän och äl-skogs-blomma Ack om vi kun-de till-sam-mans kom-ma och jag vo-re vän-nen din och du all-ra kä-res-tan min du ä-de-la ros och för-gyll-lan-de skrin\n"
 |Clef|Type:Bass
 |Key|Signature:Bb|Tonic:F
 |TimeSig|Signature:6/8

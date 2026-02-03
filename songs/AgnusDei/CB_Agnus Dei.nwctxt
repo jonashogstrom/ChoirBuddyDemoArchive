@@ -1,5 +1,5 @@
 !NoteWorthyComposer(2.751)
-|Editor|ActiveStaff:6|CaretIndex:23|CaretPos:0
+|Editor|ActiveStaff:5|CaretIndex:23|CaretPos:0
 |SongInfo|Title:"Agnus Dei"|Author:""|Lyricist:""|Copyright1:""|Copyright2:""
 |PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:Y|PageNumbers:0|StaffLabels:None|BarNumbers:None|StartingBar:1
 |Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:10|Bold:Y|Italic:Y|CharSet:0
@@ -20,7 +20,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"A_-gnus_ De_-i_ mi_-se_-re_-re_ no_-bis_ A_-gnus_ De_-i_ mi_-se_-re_-re_ no_-bis._\nMi_-se_-re_-re_ mi_-se_-re_-re_ Mi_-se_-re_-re_ no_-bis,_\nmi_-se_-re_-re_ no_-bis_ mi_-se_-re_-re_ A_-gnus_ De_-i_ mi_-se_-re_-re_ no_-bis.\n"
+|Lyric1|Text:"A-gnus De-i mi-se-re-re no-bis\nA-gnus De-i mi-se-re-re no-bis.\nMi-se-re-re mi-se-re-re\nMi-se-re-re no-bis,\nmi-se-re-re no-bis mi-se-re-re\nA-gnus De-i mi-se-re-re no-bis.\n"
 |Clef|Type:Treble
 |Key|Signature:Bb|Tonic:F
 |TimeSig|Signature:4/4
@@ -244,7 +244,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"A-gnus De-i mi-se-re-re no-bis A-gnus De-i mi-se-re-re no-bis.\nMi-se-re-re mi-se-re-re mi-se-re-re no-bis,\nmi-se-re-re no-bis mi-se-re-re A-gnus De-i mi-se-re-re no-bis.\n"
+|Lyric1|Text:"A-gnus De-i mi-se-re-re no-bis\nA-gnus De-i mi-se-re-re no-bis.\nMi-se-re-re mi-se-re-re mi-se-re-re no-bis,\nmi-se-re-re no-bis mi-se-re-re\nA-gnus De-i mi-se-re-re no-bis.\n"
 |Clef|Type:Treble
 |Key|Signature:Bb|Tonic:F
 |TimeSig|Signature:4/4
@@ -357,7 +357,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"A-gnus Dei mi-se-re-re no-bis A-gnus De-i mi-se-re-re no-bis.\nMi-se-re-re mi-se-re-re,\nmi-se-re-re no-bis,\nmi-se-re-re no-bis mi-se-re-re A-gnus De-i mi-se-re-re no-bis.\n"
+|Lyric1|Text:"A-gnus Dei mi-se-re-re no-bis\nA-gnus De-i mi-se-re-re no-bis.\nMi-se-re-re mi-se-re-re,\nmi-se-re-re no-bis,\nmi-se-re-re no-bis mi-se-re-re\nA-gnus De-i mi-se-re-re no-bis.\n"
 |Clef|Type:Treble|OctaveShift:Octave Down
 |Key|Signature:Bb|Tonic:F
 |TimeSig|Signature:4/4

@@ -20,7 +20,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"Glad_ så_ som_ få_-geln_ i_ mor_-gon_-stun_-den_ häl_-sar_ jag_ vå_-ren_ i_ fri_-ska_ na_-tur\'n_ Lär_-kan_ mig_ ro_-par_ och_ tras_-ten_ i_ lund_-en_ är_-lan_ på_ å_-kern_ och_ orr_-ren_ i_ fur\'n_ orr_-ren_ i_ fur\'n_ Se_ hur_ de_ silv_-ra_-de_ bä_-ckar_-na_ små_ Hop_-pa_ och_ slå_ hop_-pa_ och_ slå_ Vän_-li_-ga_ ar_-mar_ kring_ tu_-vor_ och_ ste_-nar_ se_ hur_ det_ sprit_-ter_ i_ bus_-kar_ och_ gre_-nar_ av_ liv_ och_ av_ dans_ av_ liv_ och_ av_ dans_ I_ den_ här_-li_-ga_ vår_-so_-lens_ glans_ vår_-so_-lens_ glans_ Ut_-i_ vår_-so_-lens_ glans\n"
+|Lyric1|Text:"Glad så som få-geln i mor-gon-stun-den häl-sar jag vå-ren i fri-ska na-tur\'n Lär-kan mig ro-par och tras-ten i lund-en är-lan på å-kern och orr-ren i fur\'n orr-ren i fur\'n Se hur de silv-ra-de bä-ckar-na små Hop-pa och slå hop-pa och slå Vän-li-ga ar-mar kring tu-vor och ste-nar se hur det sprit-ter i bus-kar och gre-nar av liv och av dans av liv och av dans I den här-li-ga vår-so-lens glans vår-so-lens glans Ut-i vår-so-lens glans\n"
 |Clef|Type:Treble|OctaveShift:Octave Down
 |Key|Signature:F#|Tonic:G
 |TimeSig|Signature:Common
@@ -180,7 +180,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"Glad_ så_ som_ få_-geln_ i_ mor_-gon_-stun_-den_ häl_-sar_ jag_ vå_-ren_ i_ fri_-ska_ na_-tur\'n_ Lär_-kan_ mig_ ro_-par_ och_ tras_-ten_ i_ lund_-en_ är_-lan_ på_ å_-kern_ och_ orr_-ren_ i_ fur\'n_ orr_-ren_ i_ fur\'n_ Se_ hur_ de_ silv_-ra_-de_ bä_-ckar_-na_ små_ Hop_-pa_ och_ slå_ hop_-pa_ och_ slå_ Vän_-li_-ga_ ar_-mar_ kring_ tu_-vor_ och_ ste_-nar_ se_ hur_ det_ sprit_-ter_ i_ bus_-kar_ och_ gre_-nar_ av_ liv_ och_ av_ dans_ av_ liv_ och_ av_ dans_ I_ den_ här_-li_-ga_ vår_-so_-lens_ glans_ vår_-so_-lens_ glans_ Ut_-i_ vår_-so_-lens_ glans\n"
+|Lyric1|Text:"Glad så som få-geln i mor-gon-stun-den häl-sar jag vå-ren i fri-ska na-tur\'n Lär-kan mig ro-par och tras-ten i lund-en är-lan på å-kern och orr-ren i fur\'n orr-ren i fur\'n Se hur de silv-ra-de bä-ckar-na små Hop-pa och slå hop-pa och slå Vän-li-ga ar-mar kring tu-vor och ste-nar se hur det sprit-ter i bus-kar och gre-nar av liv och av dans av liv och av dans I den här-li-ga vår-so-lens glans vår-so-lens glans Ut-i vår-so-lens glans\n"
 |Clef|Type:Treble|OctaveShift:Octave Down
 |Key|Signature:F#|Tonic:G
 |TimeSig|Signature:Common
@@ -341,7 +341,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"Glad_ så_ som_ få_-geln_ i_ mor_-gon_-stun_-den_ häl_-sar_ jag_ vå_-ren_ i_ fri_-ska_ na_-tur\'n_ Lär_-kan_ mig_ ro_-par_ och_ tras_-ten_ i_ lund_-en_ är_-lan_ på_ å_-kern_ och_ orr_-ren_ i_ fur\'n_ orr_-ren_ i_ fur\'n_ Se_ hur_ de_ silv_-ra_-de_ bä_-ckar_-na_ små_ Hop_-pa_ och_ slå_ hop_-pa_ och_ slå_ Vän_-li_-ga_ ar_-mar_ kring_ tu_-vor_ och_ ste_-nar_ se_ hur_ det_ sprit_-ter_ i_ bus_-kar_ och_ gre_-nar_ av_ liv_ och_ av_ dans_ av_ liv_ och_ av_ dans_ I_ den_ här_-li_-ga_ vår_-so_-lens_ glans_ vår_-so_-lens_ glans_ I_ den_ här_-li_-ga_ vår_ vår_-so_-lens_ glans\n"
+|Lyric1|Text:"Glad så som få-geln i mor-gon-stun-den häl-sar jag vå-ren i fri-ska na-tur\'n Lär-kan mig ro-par och tras-ten i lund-en är-lan på å-kern och orr-ren i fur\'n orr-ren i fur\'n Se hur de silv-ra-de bä-ckar-na små Hop-pa och slå hop-pa och slå Vän-li-ga ar-mar kring tu-vor och ste-nar se hur det sprit-ter i bus-kar och gre-nar av liv och av dans av liv och av dans I den här-li-ga vår-so-lens glans vår-so-lens glans I den här-li-ga vår vår-so-lens glans\n"
 |Clef|Type:Bass
 |Key|Signature:F#|Tonic:G
 |TimeSig|Signature:Common
@@ -503,7 +503,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"Glad_ så_ som_ få_-geln_ i_ mor_-gon_-stun_-den_ häl_-sar_ jag_ vå_-ren_ i_ fri_-ska_ na_-tur\'n_ Lär_-kan_ mig_ ro_-par_ och_ tras_-ten_ i_ lund_-en_ är_-lan_ på_ å_-kern_ och_ orr_-ren_ i_ fur\'n_ orr_-ren_ i_ fur\'n_ Se_ hur_ de_ silv_-ra_-de_ bä_-ckar_-na_ små_ Hop_-pa_ och_ slå_ hop_-pa_ och_ slå_ Vän_-li_-ga_ ar_-mar_ kring_ tu_-vor_ och_ ste_-nar_ se_ hur_ det_ sprit_-ter_ i_ bus_-kar_ och_ gre_-nar_ av_ liv_ och_ av_ dans_ av_ liv_ och_ av_ dans_ I_ den_ här_-li_-ga_ vår_-so_-lens_ glans_ vår_-so_-lens_ glans_ I_ den_ här_-li_-ga_ vår_ vår_-so_-lens_ glans\n"
+|Lyric1|Text:"Glad så som få-geln i mor-gon-stun-den häl-sar jag vå-ren i fri-ska na-tur\'n Lär-kan mig ro-par och tras-ten i lund-en är-lan på å-kern och orr-ren i fur\'n orr-ren i fur\'n Se hur de silv-ra-de bä-ckar-na små Hop-pa och slå hop-pa och slå Vän-li-ga ar-mar kring tu-vor och ste-nar se hur det sprit-ter i bus-kar och gre-nar av liv och av dans av liv och av dans I den här-li-ga vår-so-lens glans vår-so-lens glans I den här-li-ga vår vår-so-lens glans\n"
 |Clef|Type:Bass
 |Key|Signature:F#|Tonic:G
 |TimeSig|Signature:Common

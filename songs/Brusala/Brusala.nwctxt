@@ -1,5 +1,5 @@
 !NoteWorthyComposer(2.751)
-|Editor|ActiveStaff:1|CaretIndex:34|CaretPos:-5
+|Editor|ActiveStaff:1|CaretIndex:4|SelectIndex:5|CaretPos:-5
 |SongInfo|Title:"Brusala"|Author:"Knut Håkanson"|Lyricist:"E A Karlfeldt"|Copyright1:""|Copyright2:""
 |PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:Y|PageNumbers:0|StaffLabels:None|BarNumbers:Plain|StartingBar:1|AllowLayering:N
 |Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:10|Bold:Y|Italic:Y|CharSet:0
@@ -24,7 +24,7 @@
 |Clef|Type:Treble
 |Key|Signature:Bb,Eb|Tonic:B
 |TimeSig|Signature:2/2
-|Tempo|Base:Half|Tempo:85|Pos:11
+|Tempo|Base:Half|Tempo:85|Pos:10.5
 |Note|Dur:Whole|Pos:4
 |Bar
 |Note|Dur:Half|Pos:n3

@@ -20,7 +20,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"O_ Guds_ lamm,_\nsom_ bort_-ta_-ger_ värl_-dens_ syn_-der_ O_ Guds_ lamm_ som_ bo_-ort_-ta_-ger_ värl_-dens_ syn_-der_ Frä_-äls_ oss_ mil_-de_-e_ Her_-re_ Gud_ Hör_ oss_ mil_-de_ Her_-re_ Gud_ giv_ oss_ din_ frid_ Fräls_ oss_ her_-re_ O_ Guds_ lamm_ som_ bo_-ort_ ta_-ger_ värl_-dens_ syn_-der\n"
+|Lyric1|Text:"O Guds lamm,\nsom bort-ta-ger värl-dens syn-der O Guds lamm som bo-ort-ta-ger värl-dens syn-der Frä-äls oss mil-de-e Her-re Gud Hör oss mil-de Her-re Gud giv oss din frid Fräls oss her-re O Guds lamm som bo-ort ta-ger värl-dens syn-der\n"
 |Clef|Type:Treble
 |Key|Signature:Bb|Tonic:F
 |TimeSig|Signature:Common
@@ -132,7 +132,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"O_ Guds_ lamm,_\nsom_ bort_-ta_-ger_ värl_-dens_ syn_-der_ O_ Guds_ lamm_ som_ bo_-ort_-ta_-ger_ värl_-dens_ syn_-der_ Frä_-äls_ oss_ mil_-de_-e_ Her_-re_ Gud_ Hör_ oss_ mil_-de_ Her_-re_ Gud_ giv_ oss_ din_ frid_ Fräls_ oss_ her_-re_ O_ Guds_ lamm_ som_ bo_-ort_ ta_-ger_ värl_-dens_ syn_-der\n"
+|Lyric1|Text:"O Guds lamm,\nsom bort-ta-ger värl-dens syn-der O Guds lamm som bo-ort-ta-ger värl-dens syn-der Frä-äls oss mil-de-e Her-re Gud Hör oss mil-de Her-re Gud giv oss din frid Fräls oss her-re O Guds lamm som bo-ort ta-ger värl-dens syn-der\n"
 |Clef|Type:Treble
 |Key|Signature:Bb|Tonic:F
 |TimeSig|Signature:Common
@@ -244,7 +244,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"O_ Guds_ lamm,_\nsom_ bort_-ta_-ger_ värl_-dens_ syn_-der_ O_ Guds_ lamm_ som_ bo_-ort_-ta_-ger_ värl_-dens_ syn_-der_ Frä_-äls_ oss_ mil_-de_ her_-re_ gud_ Hör_ oss_ mil_-de_ Her_-re_ Gud_ Giv_ oss_ din_ frid_ din_ frid_ Fräls_ oss_ her_-re_ O_ Guds_ lamm_ som_ bo_-ort_ ta_-ger_ värl_-dens_ syn_-der\n"
+|Lyric1|Text:"O Guds lamm,\nsom bort-ta-ger värl-dens syn-der O Guds lamm som bo-ort-ta-ger värl-dens syn-der Frä-äls oss mil-de her-re gud Hör oss mil-de Her-re Gud Giv oss din frid din frid Fräls oss her-re O Guds lamm som bo-ort ta-ger värl-dens syn-der\n"
 |Clef|Type:Treble
 |Key|Signature:Bb|Tonic:F
 |TimeSig|Signature:Common
@@ -358,7 +358,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"O_ Guds_ lamm_ som_ bort_-ta_-ger_ värl_-dens_ syn_-der_ O_ Guds_ lamm,_\nsom_ bo_-ort_-ta_-ger_ värl_-dens_ syn_-der_ Frä_-äls_ oss_ mil_-de_ frä_-äls_ oss_ Gud_ o_-o_ Hör_ oss_ mil_-de_ He_-er_-re_ Gud_ Giv_ oss_ din_ fri_-id_ din_ frid_ Fräls_ oss_ her_-re_ O_ Guds_ lamm_ som_ bo_-ort_ ta_-ger_ värl_-dens_ syn_-der\n"
+|Lyric1|Text:"O Guds lamm som bort-ta-ger värl-dens syn-der O Guds lamm,\nsom bo-ort-ta-ger värl-dens syn-der Frä-äls oss mil-de frä-äls oss Gud o-o Hör oss mil-de He-er-re Gud Giv oss din fri-id din frid Fräls oss her-re O Guds lamm som bo-ort ta-ger värl-dens syn-der\n"
 |Clef|Type:Treble|OctaveShift:Octave Down
 |Key|Signature:Bb|Tonic:F
 |TimeSig|Signature:Common
@@ -471,7 +471,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"O_ Guds_ lamm_ som_ bort_-ta_-ger_ värl_-dens_ syn_-der_ O_ Guds_ lamm,_\nsom_ bo_-ort_-ta_-ger_ värl_-dens_ syn_-der_ Frä_-äls_ oss_ mil_-de_ frä_-äls_ oss_ Gud_ o_-o_ Hör_ oss_ mil_-de_ He_-er_-re_ Gud_ Giv_ oss_ din_ fri_-id_ din_ frid_ Fräls_ oss_ her_-re_ O_ Guds_ lamm_ som_ bo_-ort_ ta_-ger_ värl_-dens_ syn_-der\n"
+|Lyric1|Text:"O Guds lamm som bort-ta-ger värl-dens syn-der O Guds lamm,\nsom bo-ort-ta-ger värl-dens syn-der Frä-äls oss mil-de frä-äls oss Gud o-o Hör oss mil-de He-er-re Gud Giv oss din fri-id din frid Fräls oss her-re O Guds lamm som bo-ort ta-ger värl-dens syn-der\n"
 |Clef|Type:Treble|OctaveShift:Octave Down
 |Key|Signature:Bb|Tonic:F
 |TimeSig|Signature:Common
@@ -584,7 +584,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"O_ Guds_ lamm_ som_ bort_-ta_-ger_ värl_-dens_ syn_-der_ O_ Guds_ lamm,_\nsom_ bo_-ort_-ta_-ger_ värl_-dens_ syn_-der_ Frä_-äls_ oss_ Her_-re_ Gud_ Hör_ oss_ mil_-de_ Her_-re_ Gud_ giv_ oss_ din_ frid_ Fräls_ oss_ her_-re_ O_ Guds_ lamm_ som_ bo_-ort_ ta_-ger_ värl_-dens_ syn_-der\n"
+|Lyric1|Text:"O Guds lamm som bort-ta-ger värl-dens syn-der O Guds lamm,\nsom bo-ort-ta-ger värl-dens syn-der Frä-äls oss Her-re Gud Hör oss mil-de Her-re Gud giv oss din frid Fräls oss her-re O Guds lamm som bo-ort ta-ger värl-dens syn-der\n"
 |Clef|Type:Bass
 |Key|Signature:Bb|Tonic:F
 |TimeSig|Signature:Common
@@ -694,7 +694,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"O_ Guds_ lamm_ som_ bort_-ta_-ger_ värl_-dens_ syn_-der_ O_ Guds_ lamm,_\nsom_ bo_-ort_-ta_-ger_ värl_-dens_ syn_-der_ Frä_-äls_ oss_ Her_-re_ Gud_ Hör_ oss_ mil_-de_ Her_-re_ Gud_ giv_ oss_ din_ frid_ Fräls_ oss_ her_-re_ O_ Guds_ lamm_ som_ bo_-ort_ ta_-ger_ värl_-dens_ syn_-der\n"
+|Lyric1|Text:"O Guds lamm som bort-ta-ger värl-dens syn-der O Guds lamm,\nsom bo-ort-ta-ger värl-dens syn-der Frä-äls oss Her-re Gud Hör oss mil-de Her-re Gud giv oss din frid Fräls oss her-re O Guds lamm som bo-ort ta-ger värl-dens syn-der\n"
 |Clef|Type:Bass
 |Key|Signature:Bb|Tonic:F
 |TimeSig|Signature:Common

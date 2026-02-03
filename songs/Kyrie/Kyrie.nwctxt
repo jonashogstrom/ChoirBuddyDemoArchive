@@ -20,7 +20,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"Chris_-te,_\nChris_-te_ e_-le_-i_-son,_\nChris_-te,_\nChris_-te_ e_-le_-i_-son.\n"
+|Lyric1|Text:"Chris-te,\nChris-te e-le-i-son,\nChris-te,\nChris-te e-le-i-son.\n"
 |Clef|Type:Treble
 |Key|Signature:Bb,Eb,Ab|Tonic:E
 |TimeSig|Signature:4/4
@@ -115,7 +115,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"Ky_-ri_-e_ Ky_-ri_-e_ Ky_-ri_-e_ e_-le_-i_-son_ Ky_-ri_-e_ e_-le_-i_-son_ Ky_-ri_-e_ Ky_-ri_-e_ Ky_-ri_-e_ e_-le_-i_-son_ Ky_-ri_-e_ e_-le_-i_-son,_\ne_-le_-i_-son_ Ky_-ri_-e_ e_-le_-i_-son,_\ne_-le_-i_-son,_\ne_-le_-i_-son,_\ne_-le_-i_-son,_\ne_-le_-i_-son,_\nKy_-ri_-e_ e_-le_-i_-son_ Ky_-ri_-e_ Ky_-ri_-e_ Ky_-ri_-e_ e_-le_-i_-son._\nKy_-ri_-e_ e_-le_-i_-son,_\ne_-le_-i_-son,_\nKy_-ri_-e_ Ky_-ri_-e_ Ky_-ri_-e_ e_-le_-i_-son.\n"
+|Lyric1|Text:"Ky-ri-e Ky-ri-e Ky-ri-e e-le-i-son Ky-ri-e e-le-i-son Ky-ri-e Ky-ri-e Ky-ri-e e-le-i-son Ky-ri-e e-le-i-son,\ne-le-i-son Ky-ri-e e-le-i-son,\ne-le-i-son,\ne-le-i-son,\ne-le-i-son,\ne-le-i-son,\nKy-ri-e e-le-i-son Ky-ri-e Ky-ri-e Ky-ri-e e-le-i-son.\nKy-ri-e e-le-i-son,\ne-le-i-son,\nKy-ri-e Ky-ri-e Ky-ri-e e-le-i-son.\n"
 |Clef|Type:Treble
 |Key|Signature:Bb,Eb,Ab|Tonic:E
 |TimeSig|Signature:4/4
@@ -451,7 +451,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"Ky_-ri_-e_ Ky_-ri_-e_ Ky_-ri_-e_ e_-le_-i_-son_ Ky_-ri_-e_ e_-le_-i_-son_ Ky_ ri_-e_ Ky_-ri_-e_ Ky_-ri_-e_ e_-le_-i_-son_ Ky_-ri_-e_ e_-le_-i_-son,_\ne_-le_-i_-son_ Ky_-ri_-e_ e_-le_-i_-son,_\ne_-le_-i_-son,_\ne_-le_-i_-son,_\ne_-le_-i_-son,_\ne_-le_-i_-son,_\nKy_-ri_-e_ e_-le_-i_-son_ Ky_-ri_-e_ Ky_-ri_-e_ Ky_-ri_-e_ e_-le_-i_-son._\nKy_-ri_-e_ e_-le_-i_-son,_\ne_-le_-i_-son,_\nKy_-ri_-e_ Ky_-ri_-e_ Ky_-ri_-e_ e_-le_-i_-son.\n"
+|Lyric1|Text:"Ky-ri-e Ky-ri-e Ky-ri-e e-le-i-son Ky-ri-e e-le-i-son Ky ri-e Ky-ri-e Ky-ri-e e-le-i-son Ky-ri-e e-le-i-son,\ne-le-i-son Ky-ri-e e-le-i-son,\ne-le-i-son,\ne-le-i-son,\ne-le-i-son,\ne-le-i-son,\nKy-ri-e e-le-i-son Ky-ri-e Ky-ri-e Ky-ri-e e-le-i-son.\nKy-ri-e e-le-i-son,\ne-le-i-son,\nKy-ri-e Ky-ri-e Ky-ri-e e-le-i-son.\n"
 |Clef|Type:Treble
 |Key|Signature:Bb,Eb,Ab|Tonic:E
 |TimeSig|Signature:4/4
@@ -816,7 +816,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"Ky_-ri_-e_ Ky_-ri_-e_ Ky_-ri_-e_ e_-le_-i_-son_ Ky_-ri_-e_ e_-le_-i_-son_ Ky_-ri_-e_ Ky_-ri_-e_ Ky_-ri_-e_ e_-le_-i_-son_ Ky_-ri_-e_ e_-le_-i_-son,_\ne_-le_-i_-son,_\nKy_-ri_-e_ Ky_-ri_-e_ e_-le_-i_-son,_\ne_-le_-i_-son,_\ne_-le_-i_-son,_\ne_-le_-i_-son,_\ne_-le_-i_-son,_\nKy_-ri_-e_ e_-le_-i_-son,_\nKy_-ri_-e_ Ky_-ri_-e_ Ky_-ri_-e_ Ky_-ri_-e_ e_-le_-i_-son._\nKy_-ri_-e_ e_-le_-i_-son_ e_-le_-i_-son,_\nKy_-ri_-e_ Ky_-ri_-e_ Ky_-ri_-e_ e_-le_-i_-son.\n"
+|Lyric1|Text:"Ky-ri-e Ky-ri-e Ky-ri-e e-le-i-son Ky-ri-e e-le-i-son Ky-ri-e Ky-ri-e Ky-ri-e e-le-i-son Ky-ri-e e-le-i-son,\ne-le-i-son,\nKy-ri-e Ky-ri-e e-le-i-son,\ne-le-i-son,\ne-le-i-son,\ne-le-i-son,\ne-le-i-son,\nKy-ri-e e-le-i-son,\nKy-ri-e Ky-ri-e Ky-ri-e Ky-ri-e e-le-i-son.\nKy-ri-e e-le-i-son e-le-i-son,\nKy-ri-e Ky-ri-e Ky-ri-e e-le-i-son.\n"
 |Clef|Type:Treble|OctaveShift:Octave Down
 |Key|Signature:Bb,Eb,Ab|Tonic:E
 |TimeSig|Signature:4/4
@@ -1138,7 +1138,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"Ky_-ri_-e_ Ky_-ri_-e_ Ky_-ri_-e_ e_-le_-i_-son_ Ky_-ri_-e_ e_-le_-i_-son_ Ky_-ri_-e_ Ky_-ri_-e_ Ky_-ri_-e_ e_-le_-i_-son_ Ky_-ri_-e_ e_-le_-i_-son,_\ne_-le_-i_-son,_\nKy_-ri_-e_ e_-le_-i_-son,_\ne_-le_-i_-son,_\ne_-le_-i_-son,_\ne_-le_-i_-son,_\ne_-le_-i_-son,_\nKy_-ri_-e_ e_-le_-i_-son,_\nKy_-ri_-e_ Ky_-ri_-e_ Ky_-ri_-e_ e_-le_-i_-son_ Ky_-ri_-e_ e_-le_-i_-son_ e_-le_-i_-son,_\nKy_-ri_-e_ Ky_-ri_-e_ Ky_-ri_-e_ e_-le_-i_-son.\n"
+|Lyric1|Text:"Ky-ri-e Ky-ri-e Ky-ri-e e-le-i-son Ky-ri-e e-le-i-son Ky-ri-e Ky-ri-e Ky-ri-e e-le-i-son Ky-ri-e e-le-i-son,\ne-le-i-son,\nKy-ri-e e-le-i-son,\ne-le-i-son,\ne-le-i-son,\ne-le-i-son,\ne-le-i-son,\nKy-ri-e e-le-i-son,\nKy-ri-e Ky-ri-e Ky-ri-e e-le-i-son Ky-ri-e e-le-i-son e-le-i-son,\nKy-ri-e Ky-ri-e Ky-ri-e e-le-i-son.\n"
 |Clef|Type:Bass
 |Key|Signature:Bb,Eb,Ab|Tonic:E
 |TimeSig|Signature:4/4

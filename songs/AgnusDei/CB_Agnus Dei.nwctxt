@@ -1,5 +1,5 @@
 !NoteWorthyComposer(2.751)
-|Editor|ActiveStaff:5|CaretIndex:23|CaretPos:0
+|Editor|ActiveStaff:1|CaretIndex:5|CaretPos:3
 |SongInfo|Title:"Agnus Dei"|Author:""|Lyricist:""|Copyright1:""|Copyright2:""
 |PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:Y|PageNumbers:0|StaffLabels:None|BarNumbers:None|StartingBar:1
 |Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:10|Bold:Y|Italic:Y|CharSet:0
@@ -25,6 +25,7 @@
 |Key|Signature:Bb|Tonic:F
 |TimeSig|Signature:4/4
 |Dynamic|Style:p|Pos:-8
+|Tempo|Tempo:80|Pos:11
 |Note|Dur:Half,Slur|Pos:1|Opts:Stem=Up
 |Note|Dur:4th|Pos:-1|Opts:Stem=Up
 |Note|Dur:8th,Slur|Pos:0|Opts:Stem=Up,Beam=First

@@ -1,5 +1,5 @@
 !NoteWorthyComposer(2.751)
-|Editor|ActiveStaff:4|CaretIndex:28|CaretPos:-62
+|Editor|ActiveStaff:3|CaretIndex:143|CaretPos:0
 |SongInfo|Title:"Vårsång (Manskör)"|Author:"Prins Gustaf"|Lyricist:""|Copyright1:""|Copyright2:""
 |PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:Y|PageNumbers:0|StaffLabels:None|BarNumbers:None|StartingBar:1
 |Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:10|Bold:Y|Italic:Y|CharSet:0
@@ -20,7 +20,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"Glad så som få-geln i mor-gon-stun-den häl-sar jag vå-ren i fri-ska na-tur\'n Lär-kan mig ro-par och tras-ten i lund-en är-lan på å-kern och orr-ren i fur\'n orr-ren i fur\'n Se hur de silv-ra-de bä-ckar-na små Hop-pa och slå hop-pa och slå Vän-li-ga ar-mar kring tu-vor och ste-nar se hur det sprit-ter i bus-kar och gre-nar av liv och av dans av liv och av dans I den här-li-ga vår-so-lens glans vår-so-lens glans Ut-i vår-so-lens glans\n"
+|Lyric1|Text:"Glad så som få-geln i mor-gon-stun-den\nhäl-sar jag vå-ren i fri-ska na-tur\'n\nLär-kan mig ro-par och tras-ten i lund-en\när-lan på å-kern och orr-ren i fur\'n orr-ren i fur\'n\nSe hur de silv-ra-de bä-ckar-na små\nHop-pa och slå\nhop-pa och slå\nVän-li-ga ar-mar kring tu-vor och ste-nar\nse hur det sprit-ter i bus-kar och gre-nar\nav liv och av dans\nav liv och av dans\nI den här-li-ga vår-so-lens glans\nvår-so-lens glans\nUt-i vår-so-lens glans\n"
 |Clef|Type:Treble|OctaveShift:Octave Down
 |Key|Signature:F#|Tonic:G
 |TimeSig|Signature:Common
@@ -180,7 +180,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"Glad så som få-geln i mor-gon-stun-den häl-sar jag vå-ren i fri-ska na-tur\'n Lär-kan mig ro-par och tras-ten i lund-en är-lan på å-kern och orr-ren i fur\'n orr-ren i fur\'n Se hur de silv-ra-de bä-ckar-na små Hop-pa och slå hop-pa och slå Vän-li-ga ar-mar kring tu-vor och ste-nar se hur det sprit-ter i bus-kar och gre-nar av liv och av dans av liv och av dans I den här-li-ga vår-so-lens glans vår-so-lens glans Ut-i vår-so-lens glans\n"
+|Lyric1|Text:"Glad så som få-geln i mor-gon-stun-den\nhäl-sar jag vå-ren i fri-ska na-tur\'n\nLär-kan mig ro-par och tras-ten i lund-en\när-lan på å-kern och orr-ren i fur\'n orr-ren i fur\'n\nSe hur de silv-ra-de bä-ckar-na små\nHop-pa och slå\nhop-pa och slå\nVän-li-ga ar-mar kring tu-vor och ste-nar\nse hur det sprit-ter i bus-kar och gre-nar\nav liv och av dans\nav liv och av dans\nI den här-li-ga vår-so-lens glans\nvår-so-lens glans\nUt-i vår-so-lens glans\n"
 |Clef|Type:Treble|OctaveShift:Octave Down
 |Key|Signature:F#|Tonic:G
 |TimeSig|Signature:Common
@@ -341,7 +341,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"Glad så som få-geln i mor-gon-stun-den häl-sar jag vå-ren i fri-ska na-tur\'n Lär-kan mig ro-par och tras-ten i lund-en är-lan på å-kern och orr-ren i fur\'n orr-ren i fur\'n Se hur de silv-ra-de bä-ckar-na små Hop-pa och slå hop-pa och slå Vän-li-ga ar-mar kring tu-vor och ste-nar se hur det sprit-ter i bus-kar och gre-nar av liv och av dans av liv och av dans I den här-li-ga vår-so-lens glans vår-so-lens glans I den här-li-ga vår vår-so-lens glans\n"
+|Lyric1|Text:"Glad så som få-geln i mor-gon-stun-den\nhäl-sar jag vå-ren i fri-ska na-tur\'n\nLär-kan mig ro-par och tras-ten i lund-en\när-lan på å-kern och orr-ren i fur\'n orr-ren i fur\'n\nSe hur de silv-ra-de bä-ckar-na små\nHop-pa och slå hop-pa och slå\nVän-li-ga ar-mar kring tu-vor och ste-nar\nse hur det sprit-ter i bus-kar och gre-nar\nav liv och av dans\nav liv och av dans\nI den här-li-ga vår-so-lens glans\nvår-so-lens glans\nI den här-li-ga vår vår-so-lens glans\n"
 |Clef|Type:Bass
 |Key|Signature:F#|Tonic:G
 |TimeSig|Signature:Common
@@ -483,7 +483,7 @@
 |Note|Dur:8th|Pos:4|Opts:Stem=Down,Beam=First
 |Note|Dur:8th|Pos:6|Opts:Stem=Down,Beam=End
 |Note|Dur:4th|Pos:5|Opts:Stem=Down
-|Dynamic|Style:ff|Pos:-8
+|Dynamic|Style:ff|Pos:7.5
 |Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=First
 |Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
 |Bar|SysBreak:Y
@@ -503,7 +503,7 @@
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
 |StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 |Lyrics|Placement:Bottom|Align:Standard Rules|Offset:0
-|Lyric1|Text:"Glad så som få-geln i mor-gon-stun-den häl-sar jag vå-ren i fri-ska na-tur\'n Lär-kan mig ro-par och tras-ten i lund-en är-lan på å-kern och orr-ren i fur\'n orr-ren i fur\'n Se hur de silv-ra-de bä-ckar-na små Hop-pa och slå hop-pa och slå Vän-li-ga ar-mar kring tu-vor och ste-nar se hur det sprit-ter i bus-kar och gre-nar av liv och av dans av liv och av dans I den här-li-ga vår-so-lens glans vår-so-lens glans I den här-li-ga vår vår-so-lens glans\n"
+|Lyric1|Text:"Glad så som få-geln i mor-gon-stun-den\nhäl-sar jag vå-ren i fri-ska na-tur\'n\nLär-kan mig ro-par och tras-ten i lund-en\när-lan på å-kern och orr-ren i fur\'n orr-ren i fur\'n\nSe hur de silv-ra-de bä-ckar-na små\nHop-pa och slå hop-pa och slå\nVän-li-ga ar-mar kring tu-vor och ste-nar\nse hur det sprit-ter i bus-kar och gre-nar\nav liv och av dans\nav liv och av dans\nI den här-li-ga vår-so-lens glans\nvår-so-lens glans\nI den här-li-ga vår vår-so-lens glans\n"
 |Clef|Type:Bass
 |Key|Signature:F#|Tonic:G
 |TimeSig|Signature:Common
@@ -645,7 +645,7 @@
 |Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=First
 |Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
 |Note|Dur:4th|Pos:-4|Opts:Stem=Up
-|Dynamic|Style:ff|Pos:-8
+|Dynamic|Style:ff|Pos:8
 |Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=First
 |Note|Dur:8th|Pos:0|Opts:Stem=Down,Beam=End
 |Bar|SysBreak:Y
@@ -654,7 +654,7 @@
 |Note|Dur:8th|Pos:-2|Opts:Stem=Up,Beam=End
 |Note|Dur:Half|Pos:0|Opts:Stem=Down
 |Bar
-|Note|Dur:Half,Slur|Pos:0|Opts:Stem=Down
+|Note|Dur:Half|Pos:0|Opts:Stem=Down
 |Note|Dur:4th,Dotted|Pos:0|Opts:Stem=Down
 |Note|Dur:8th|Pos:-4|Opts:Stem=Up
 |Bar
